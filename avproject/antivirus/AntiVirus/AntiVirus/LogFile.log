@@ -1,0 +1,51 @@
+23/05/2023 16:03:51 av started running
+23/05/2023 16:04:49 WARNING! File created: C:\Users\rogov\AppData\New Text Document (2).txt
+23/05/2023 16:05:10 WARNING! File renamed: C:\Users\rogov\AppData\hj.txt
+23/05/2023 16:06:36 av started running
+23/05/2023 16:07:03 WARNING! File created: C:\Users\rogov\AppData\New Text Document (2).txt
+23/05/2023 16:07:27 WARNING! AN UNKNOWN FILE WAS DETECTED at path:C:\Users\rogov\AppData\New Text Document (2).txt
+23/05/2023 16:08:45 WARNING! A VIRUS WAS DETECTED at path:C:\Users\rogov\Desktop\CS\year_3\semester 2\cyber security\avproject\blacklist\1.txt
+23/05/2023 16:27:41 av started running
+23/05/2023 16:28:19 WARNING! File created: C:\Users\rogov\AppData\New Text Document.txt
+23/05/2023 16:28:19 WARNING! AN UNKNOWN FILE WAS DETECTED at path:C:\Users\rogov\AppData\New Text Document.txt
+23/05/2023 16:28:24 WARNING! File renamed: C:\Users\rogov\AppData\5454.txt
+23/05/2023 16:28:24 WARNING! AN UNKNOWN FILE WAS DETECTED at path:C:\Users\rogov\AppData\5454.txt
+23/05/2023 16:29:10 WARNING! File changed: C:\Users\rogov\AppData\LocalLow
+23/05/2023 16:29:25 WARNING! File changed: C:\Users\rogov\AppData\LocalLow
+23/05/2023 16:31:53 av started running
+23/05/2023 16:32:06 WARNING! File changed: C:\Users\rogov\AppData\LocalLow
+23/05/2023 16:33:36 av started running
+23/05/2023 16:34:23 WARNING! File changed: C:\Users\rogov\AppData\LocalLow
+23/05/2023 16:34:57 WARNING! File changed: C:\Users\rogov\AppData\LocalLow
+23/05/2023 16:35:09 av started running
+23/05/2023 16:36:46 WARNING! File changed: C:\Users\rogov\AppData\LocalLow
+23/05/2023 16:43:57 av started running
+23/05/2023 16:45:00 WARNING! AN UNKNOWN FILE WAS DETECTED at path:C:\Users\rogov\AppData\LocalLow\1234\56.txt
+23/05/2023 16:45:51 WARNING! File changed: C:\Users\rogov\AppData\LocalLow
+23/05/2023 16:45:51 failed to scan file: Access to the path 'C:\Users\rogov\AppData\LocalLow' is denied.
+23/05/2023 16:45:51 WARNING! AN UNKNOWN FILE WAS DETECTED at path:C:\Users\rogov\AppData\LocalLow
+23/05/2023 16:46:44 WARNING! File changed: C:\Users\rogov\AppData\LocalLow
+23/05/2023 16:46:44 failed to scan file: Access to the path 'C:\Users\rogov\AppData\LocalLow' is denied.
+23/05/2023 16:46:44 WARNING! AN UNKNOWN FILE WAS DETECTED at path:C:\Users\rogov\AppData\LocalLow
+23/05/2023 16:47:02 WARNING! File changed: C:\Users\rogov\AppData\LocalLow
+23/05/2023 16:47:02 failed to scan file: Access to the path 'C:\Users\rogov\AppData\LocalLow' is denied.
+23/05/2023 16:47:02 WARNING! AN UNKNOWN FILE WAS DETECTED at path:C:\Users\rogov\AppData\LocalLow
+23/05/2023 16:47:06 WARNING! File changed: C:\Users\rogov\AppData\LocalLow
+23/05/2023 16:47:06 failed to scan file: Access to the path 'C:\Users\rogov\AppData\LocalLow' is denied.
+23/05/2023 16:47:06 WARNING! AN UNKNOWN FILE WAS DETECTED at path:C:\Users\rogov\AppData\LocalLow
+23/05/2023 16:48:30 WARNING! File changed: C:\Users\rogov\AppData\LocalLow
+23/05/2023 16:48:30 failed to scan file: Access to the path 'C:\Users\rogov\AppData\LocalLow' is denied.
+23/05/2023 16:48:30 WARNING! AN UNKNOWN FILE WAS DETECTED at path:C:\Users\rogov\AppData\LocalLow
+23/05/2023 16:48:43 WARNING! File created: C:\Users\rogov\AppData\New Text Document.txt
+23/05/2023 16:48:43 WARNING! AN UNKNOWN FILE WAS DETECTED at path:C:\Users\rogov\AppData\New Text Document.txt
+23/05/2023 16:48:45 WARNING! File renamed: C:\Users\rogov\AppData\56.txt
+23/05/2023 16:48:45 WARNING! AN UNKNOWN FILE WAS DETECTED at path:C:\Users\rogov\AppData\56.txt
+23/05/2023 16:50:29 WARNING! File deleted: C:\Users\rogov\AppData\56.txt
+23/05/2023 16:50:30 failed to scan file: Could not find file 'C:\Users\rogov\AppData\56.txt'.
+23/05/2023 16:50:30 WARNING! AN UNKNOWN FILE WAS DETECTED at path:C:\Users\rogov\AppData\56.txt
+23/05/2023 17:46:46 av started running
+23/05/2023 17:58:53 av started running
+23/05/2023 18:13:20 av started running
+23/05/2023 18:14:48 av started running
+23/05/2023 18:16:10 av started running
+23/05/2023 18:21:07 av started running
