@@ -90,8 +90,8 @@ namespace AV
         public void GenerateLists()
         {
             // Example usage:
-            string goodFilesTextPath = @"C:\\Users\\rogov\\Desktop\\CS\\year_3\\semester 2\\cyber security\\avproject\\antivirus\\AntiVirus\\AntiVirus\\white list.txt";
-            string directoryPath = @"C:\Users\rogov\Desktop\CS\year_3\semester 2\cyber security\avproject\blacklist";
+            string goodFilesTextPath = @"C:\Users\rogov\Desktop\CS\year_3\app_dev\AVProject\avproject\white list.txt";
+            string directoryPath = @"C:\Users\rogov\Desktop\CS\year_3\app_dev\AVProject\avproject\blacklist";
              badFiles = GetBadFiles(directoryPath);
              goodFiles = GetGoodFiles(goodFilesTextPath); 
         }

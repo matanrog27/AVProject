@@ -42,6 +42,9 @@ namespace AV
                 appDataWatcherThread.Start();
             }
 
+            Thread processMonitor = new Thread(ProccessMonitor.InitProcessMonitor);
+            processMonitor.Start();
+
             Thread portListenerThred = new Thread(PortListener.InitPortListener);
             portListenerThred.Start();
         }
