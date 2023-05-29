@@ -14,8 +14,8 @@ namespace AV
     {
         private static readonly List<string> DirectoryToWatchList = new List<string> 
         {
-            @"C:\Users\rogov\AppData",
-            @"C:\Users\rogov\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup",
+            @"C:\Users\majd4\AppData",
+            @"C:\Users\majd4\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup",
         };
           
       

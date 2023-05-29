@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Management;
 using System.Windows.Forms;
+using System.IO;
 
 namespace AntiVirus
 {
@@ -29,9 +30,11 @@ namespace AntiVirus
                 string processName = (string)instance["Name"];
                 uint processId = (uint)instance["ProcessId"];
 
-                // Print the process name and ID
-                // MessageBox.Show("Process '{0}' (PID {1}) started", processName, (MessageBoxButtons)processId);
-                 MessageBox.Show("process created");
+                using (StreamWriter writer = new StreamWriter(DirectoryWatcher.logPath, true))
+                {
+                    // Write an initial message or header
+                    writer.WriteLine(DateTime.Now + "Process '{0}' (PID {1}) started", processName, (MessageBoxButtons)processId);
+                }
             };
 
             // Start the watcher

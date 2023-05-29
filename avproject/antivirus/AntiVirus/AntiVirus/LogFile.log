@@ -1,175 +1,66 @@
-23/05/2023 16:03:51 av started running
-23/05/2023 16:04:49 WARNING! File created: C:\Users\rogov\AppData\New Text Document (2).txt
-23/05/2023 16:05:10 WARNING! File renamed: C:\Users\rogov\AppData\hj.txt
-23/05/2023 16:06:36 av started running
-23/05/2023 16:07:03 WARNING! File created: C:\Users\rogov\AppData\New Text Document (2).txt
-23/05/2023 16:07:27 WARNING! AN UNKNOWN FILE WAS DETECTED at path:C:\Users\rogov\AppData\New Text Document (2).txt
-23/05/2023 16:08:45 WARNING! A VIRUS WAS DETECTED at path:C:\Users\rogov\Desktop\CS\year_3\semester 2\cyber security\avproject\blacklist\1.txt
-23/05/2023 16:27:41 av started running
-23/05/2023 16:28:19 WARNING! File created: C:\Users\rogov\AppData\New Text Document.txt
-23/05/2023 16:28:19 WARNING! AN UNKNOWN FILE WAS DETECTED at path:C:\Users\rogov\AppData\New Text Document.txt
-23/05/2023 16:28:24 WARNING! File renamed: C:\Users\rogov\AppData\5454.txt
-23/05/2023 16:28:24 WARNING! AN UNKNOWN FILE WAS DETECTED at path:C:\Users\rogov\AppData\5454.txt
-23/05/2023 16:29:10 WARNING! File changed: C:\Users\rogov\AppData\LocalLow
-23/05/2023 16:29:25 WARNING! File changed: C:\Users\rogov\AppData\LocalLow
-23/05/2023 16:31:53 av started running
-23/05/2023 16:32:06 WARNING! File changed: C:\Users\rogov\AppData\LocalLow
-23/05/2023 16:33:36 av started running
-23/05/2023 16:34:23 WARNING! File changed: C:\Users\rogov\AppData\LocalLow
-23/05/2023 16:34:57 WARNING! File changed: C:\Users\rogov\AppData\LocalLow
-23/05/2023 16:35:09 av started running
-23/05/2023 16:36:46 WARNING! File changed: C:\Users\rogov\AppData\LocalLow
-23/05/2023 16:43:57 av started running
-23/05/2023 16:45:00 WARNING! AN UNKNOWN FILE WAS DETECTED at path:C:\Users\rogov\AppData\LocalLow\1234\56.txt
-23/05/2023 16:45:51 WARNING! File changed: C:\Users\rogov\AppData\LocalLow
-23/05/2023 16:45:51 failed to scan file: Access to the path 'C:\Users\rogov\AppData\LocalLow' is denied.
-23/05/2023 16:45:51 WARNING! AN UNKNOWN FILE WAS DETECTED at path:C:\Users\rogov\AppData\LocalLow
-23/05/2023 16:46:44 WARNING! File changed: C:\Users\rogov\AppData\LocalLow
-23/05/2023 16:46:44 failed to scan file: Access to the path 'C:\Users\rogov\AppData\LocalLow' is denied.
-23/05/2023 16:46:44 WARNING! AN UNKNOWN FILE WAS DETECTED at path:C:\Users\rogov\AppData\LocalLow
-23/05/2023 16:47:02 WARNING! File changed: C:\Users\rogov\AppData\LocalLow
-23/05/2023 16:47:02 failed to scan file: Access to the path 'C:\Users\rogov\AppData\LocalLow' is denied.
-23/05/2023 16:47:02 WARNING! AN UNKNOWN FILE WAS DETECTED at path:C:\Users\rogov\AppData\LocalLow
-23/05/2023 16:47:06 WARNING! File changed: C:\Users\rogov\AppData\LocalLow
-23/05/2023 16:47:06 failed to scan file: Access to the path 'C:\Users\rogov\AppData\LocalLow' is denied.
-23/05/2023 16:47:06 WARNING! AN UNKNOWN FILE WAS DETECTED at path:C:\Users\rogov\AppData\LocalLow
-23/05/2023 16:48:30 WARNING! File changed: C:\Users\rogov\AppData\LocalLow
-23/05/2023 16:48:30 failed to scan file: Access to the path 'C:\Users\rogov\AppData\LocalLow' is denied.
-23/05/2023 16:48:30 WARNING! AN UNKNOWN FILE WAS DETECTED at path:C:\Users\rogov\AppData\LocalLow
-23/05/2023 16:48:43 WARNING! File created: C:\Users\rogov\AppData\New Text Document.txt
-23/05/2023 16:48:43 WARNING! AN UNKNOWN FILE WAS DETECTED at path:C:\Users\rogov\AppData\New Text Document.txt
-23/05/2023 16:48:45 WARNING! File renamed: C:\Users\rogov\AppData\56.txt
-23/05/2023 16:48:45 WARNING! AN UNKNOWN FILE WAS DETECTED at path:C:\Users\rogov\AppData\56.txt
-23/05/2023 16:50:29 WARNING! File deleted: C:\Users\rogov\AppData\56.txt
-23/05/2023 16:50:30 failed to scan file: Could not find file 'C:\Users\rogov\AppData\56.txt'.
-23/05/2023 16:50:30 WARNING! AN UNKNOWN FILE WAS DETECTED at path:C:\Users\rogov\AppData\56.txt
-23/05/2023 17:46:46 av started running
-23/05/2023 17:58:53 av started running
-23/05/2023 18:13:20 av started running
-23/05/2023 18:14:48 av started running
-23/05/2023 18:16:10 av started running
-23/05/2023 18:21:07 av started running
-29/05/2023 11:58:23 av started running
-29/05/2023 11:58:30Newly opened ports: 63801
-29/05/2023 11:59:12 av started running
-29/05/2023 11:59:19Newly opened ports: 63807
-29/05/2023 11:59:29Newly opened ports: 445, 63808
-29/05/2023 11:59:44 WARNING! AN UNKNOWN FILE WAS DETECTED at path:C:\Users\rogov\Desktop\vlc.exe
-29/05/2023 12:00:14Newly opened ports: 63810
-29/05/2023 12:00:29Newly opened ports: 63812, 63813
-29/05/2023 12:01:57 WARNING! AN UNKNOWN FILE WAS DETECTED at path:C:\Users\rogov\Desktop\trynpp.8.4.845.Installer.exe
-29/05/2023 12:01:59Newly opened ports: 63814, 63815
-29/05/2023 12:02:53 WARNING! A VIRUS WAS DETECTED at path:C:\Users\rogov\Desktop\CS\year_3\app_dev\AVProject\avproject\blacklist\2.txt
-29/05/2023 12:04:09Newly opened ports: 63816
-29/05/2023 12:04:14Newly opened ports: 63818, 63820, 63821, 63822, 63823, 63824, 63825, 63826, 63827, 63828, 63829, 63830, 63831, 63832
-29/05/2023 12:04:19Newly opened ports: 63833, 63834, 63835, 63836, 63837, 63838, 63839, 63840, 63841, 63842, 63843, 63844, 63845, 63846, 63847, 63848, 63849, 63850, 63851
-29/05/2023 12:04:24Newly opened ports: 63853, 63857, 63858
-29/05/2023 12:04:39Newly opened ports: 63859
-29/05/2023 12:04:54Newly opened ports: 63860
-29/05/2023 12:05:04Newly opened ports: 63861, 63863, 63864, 63865, 63866, 63867, 63868
-29/05/2023 12:05:09Newly opened ports: 63869, 63870
-29/05/2023 12:05:19Newly opened ports: 63871
-29/05/2023 12:05:24Newly opened ports: 63872, 63873, 63875, 63877, 63878, 63879
-29/05/2023 12:05:39Newly opened ports: 63880, 63881, 63884, 63888, 63891, 63892, 63893, 63894, 63895, 63896, 63897
-29/05/2023 12:05:44Newly opened ports: 63898, 63901, 63902, 63903, 63904, 63905
-29/05/2023 12:05:49Newly opened ports: 63906
-29/05/2023 12:06:19Newly opened ports: 63907
-29/05/2023 12:06:24Newly opened ports: 63908, 63911
-29/05/2023 12:06:29Newly opened ports: 63912
-29/05/2023 12:06:54Newly opened ports: 63913
-29/05/2023 12:07:09Newly opened ports: 63914
-29/05/2023 12:07:14Newly opened ports: 63915
-29/05/2023 12:07:29Newly opened ports: 63916, 63917, 63918
-29/05/2023 12:07:34Newly opened ports: 63919, 63920
-29/05/2023 12:07:49Newly opened ports: 63921
-29/05/2023 12:07:54Newly opened ports: 63922, 63936, 63937, 63938, 63939, 63940, 63941, 63942, 63943, 63945, 63946
-29/05/2023 12:08:08 av started running
-29/05/2023 12:08:16Newly opened ports: 63960, 63961, 63962, 63963, 63964, 63965
-29/05/2023 12:08:26Newly opened ports: 63968, 63969, 63970, 63971, 63972
-29/05/2023 12:08:31Newly opened ports: 63973, 63974, 63975, 63976, 63977, 63978, 63979, 63980, 63981, 63982, 63983, 63984, 63985, 63986, 63987, 63988
-29/05/2023 12:08:36Newly opened ports: 63989, 63990, 63991, 63992, 63993, 63994
-29/05/2023 12:08:41Newly opened ports: 63995
-29/05/2023 12:08:46Newly opened ports: 63997, 63998, 63999
-29/05/2023 12:08:56Newly opened ports: 64000, 64001, 64002, 64003, 64004, 64005, 64006, 64007, 64008, 64009, 64010, 64011, 64012, 64013
-29/05/2023 12:09:01Newly opened ports: 64014, 64015, 64016
-29/05/2023 12:09:06Newly opened ports: 64017, 64018, 64019, 64020, 64021, 64022, 64023, 64024, 64025, 64026, 64027, 64028
-29/05/2023 12:09:11Newly opened ports: 64029, 64030, 64031
-29/05/2023 12:09:16Newly opened ports: 64032
-29/05/2023 12:09:41Newly opened ports: 64033
-29/05/2023 12:10:01Newly opened ports: 64034, 64035, 64036, 64037, 64038
-29/05/2023 12:10:21Newly opened ports: 64039
-29/05/2023 12:10:26Newly opened ports: 64040
-29/05/2023 12:10:41Newly opened ports: 64042
-29/05/2023 12:10:51Newly opened ports: 64043
-29/05/2023 12:11:01Newly opened ports: 64045
-29/05/2023 12:11:21Newly opened ports: 64046, 64047
-29/05/2023 12:11:26Newly opened ports: 64048
-29/05/2023 12:11:31Newly opened ports: 64051
-29/05/2023 12:11:41Newly opened ports: 64052
-29/05/2023 12:12:01Newly opened ports: 64053
-29/05/2023 12:12:06Newly opened ports: 64054
-29/05/2023 12:12:21Newly opened ports: 64055
-29/05/2023 12:12:46Newly opened ports: 64056
-29/05/2023 12:12:51Newly opened ports: 64057
-29/05/2023 12:12:56Newly opened ports: 64059, 64061
-29/05/2023 12:13:01Newly opened ports: 64062
-29/05/2023 12:13:21Newly opened ports: 64063
-29/05/2023 12:13:26Newly opened ports: 64064
-29/05/2023 12:13:31Newly opened ports: 64065
-29/05/2023 12:13:41Newly opened ports: 64066, 64067, 64068, 64069, 64070, 64071, 64072, 64073, 64074
-29/05/2023 12:13:51Newly opened ports: 64075
-29/05/2023 12:13:56Newly opened ports: 64076
-29/05/2023 12:14:01Newly opened ports: 64077, 64078, 64079, 64080, 64081, 64082, 64083, 64084, 64085, 64086, 64088, 64089, 64090, 64091, 64092, 64093, 64094, 64095, 64096, 64097, 64098, 64099, 64100, 64101, 64102, 64103
-29/05/2023 12:14:06Newly opened ports: 64104, 64105, 64107, 64108, 64109, 64110, 64111
-29/05/2023 12:14:11Newly opened ports: 64114, 64115, 64116, 64118, 64119, 64121, 64122, 64123, 64124, 64125, 64129, 64130, 64131, 64132, 64133, 64134, 64135, 64136, 64137, 64138, 64139, 64140, 64141, 64142, 64143, 64144, 64145, 64146, 64147, 64148, 64149, 64150, 64151, 64152, 64153, 64154, 64155
-29/05/2023 12:14:16Newly opened ports: 64156, 64157, 64158, 64159, 64160
-29/05/2023 12:14:21Newly opened ports: 64161, 64162
-29/05/2023 12:14:26Newly opened ports: 64163
-29/05/2023 12:40:53Newly opened ports: 64164, 64165, 64166, 64167, 64168, 64169, 64171, 64172, 64173, 64174, 64175, 64176, 64177, 64179, 64180, 64181, 64182
-29/05/2023 12:40:58Newly opened ports: 64184, 64185, 64186, 64187, 64188, 64189, 64190, 64191
-29/05/2023 12:41:03Newly opened ports: 64192, 64193, 64194, 64195, 64196, 64197, 64198
-29/05/2023 12:41:08Newly opened ports: 64199, 64201, 64203, 64204, 64206, 64207, 64208, 64209
-29/05/2023 12:41:13Newly opened ports: 64215
-29/05/2023 12:41:18Newly opened ports: 64216
-29/05/2023 12:41:23Newly opened ports: 64217, 64218
-29/05/2023 12:41:28Newly opened ports: 64219
-29/05/2023 12:41:46 av started running
-29/05/2023 12:41:53Newly opened ports: 64222
-29/05/2023 12:42:13Newly opened ports: 64223, 64224, 64227
-29/05/2023 12:42:18Newly opened ports: 64228, 64230, 64231, 64232, 64233, 64234, 64235, 64236, 64242, 64243, 64244, 64245, 64246, 64247, 64248, 64249, 64250
-29/05/2023 12:42:23Newly opened ports: 64251, 64252, 64253, 64254, 64255, 64256, 64257, 64258, 64259, 64260
-29/05/2023 12:42:28Newly opened ports: 64261
-29/05/2023 12:42:33Newly opened ports: 64262, 64263, 64264, 64265, 64266
-29/05/2023 12:42:48Newly opened ports: 64267
-29/05/2023 12:42:53Newly opened ports: 64268
-29/05/2023 12:42:58Newly opened ports: 64269, 64270, 64271
-29/05/2023 12:43:13Newly opened ports: 64272
-29/05/2023 12:43:34 av started running
-29/05/2023 12:44:33Newly opened ports: 64274, 64275
-29/05/2023 12:44:44Newly opened ports: 64276
-29/05/2023 12:46:28 av started running
-29/05/2023 12:46:36Newly opened ports: 64288
-29/05/2023 12:46:41Newly opened ports: 64289, 64291, 64293, 64294, 64295, 64296, 64297
-29/05/2023 12:46:46Newly opened ports: 64298, 64299, 64300, 64301, 64302, 64303, 64304, 64305
-29/05/2023 12:46:51Newly opened ports: 64306, 64307, 64308, 64309, 64310, 64311, 64312, 64313, 64314, 64315, 64316, 64317
-29/05/2023 12:47:06Newly opened ports: 64320, 64321, 64322, 64324, 64325, 64326, 64327, 64328, 64329, 64330, 64331, 64332, 64333, 64334
-29/05/2023 12:47:11Newly opened ports: 64335, 64336, 64337, 64338, 64339, 64340, 64341, 64342, 64344, 64346, 64347, 64348, 64349, 64350
-29/05/2023 12:47:16Newly opened ports: 64351, 64352, 64354, 64355, 64356, 64357
-29/05/2023 12:47:26Newly opened ports: 64358, 64359, 64360, 64361
-29/05/2023 12:47:31Newly opened ports: 64362
-29/05/2023 12:47:46 av started running
-29/05/2023 12:48:07Newly opened ports: 64367
-29/05/2023 12:48:27Newly opened ports: 64368
-29/05/2023 12:48:32Newly opened ports: 64369
-29/05/2023 12:48:52Newly opened ports: 64370
-29/05/2023 12:49:22Newly opened ports: 64371
-29/05/2023 12:49:27Newly opened ports: 64372, 64373
-29/05/2023 12:49:32Newly opened ports: 64375, 64376, 64377
-29/05/2023 12:49:37Newly opened ports: 64378
-29/05/2023 12:53:10 av started running
-29/05/2023 12:53:20Newly opened ports: 58192, 58193, 58194, 58195, 58196, 58197, 58198, 58199, 58200, 58201, 58202, 58203, 58204, 58205, 58206
-29/05/2023 12:53:25Newly opened ports: 58207, 58208
-29/05/2023 12:53:31Newly opened ports: 58209, 58210
-29/05/2023 12:53:37Newly opened ports: 58212, 58213, 58215, 58218, 58224, 58228, 58230
-29/05/2023 12:53:47 av started running
-29/05/2023 12:54:02 av started running
+5/29/2023 1:04:46 PM av started running
+5/29/2023 1:05:03 PMNewly opened ports: 61424
+5/29/2023 1:05:04 PMProcess 'chrome.exe' (PID 21128) started
+5/29/2023 1:05:04 PMProcess 'chrome.exe' (PID 2272) started
+5/29/2023 1:05:04 PMProcess 'chrome.exe' (PID 24280) started
+5/29/2023 1:05:04 PMProcess 'chrome.exe' (PID 26544) started
+5/29/2023 1:05:04 PMProcess 'chrome.exe' (PID 27868) started
+5/29/2023 1:05:04 PMProcess 'GameBar.exe' (PID 28056) started
+5/29/2023 1:05:04 PMProcess 'GameBarFTServer.exe' (PID 3704) started
+5/29/2023 1:05:08 PMProcess 'Notepad.exe' (PID 27764) started
+5/29/2023 1:05:08 PMNewly opened ports: 61425, 61426
+5/29/2023 1:05:13 PMNewly opened ports: 61427, 61428, 61429
+5/29/2023 1:05:18 PMNewly opened ports: 61430
+5/29/2023 1:05:36 PMProcess 'audiodg.exe' (PID 1476) started
+5/29/2023 1:05:38 PMNewly opened ports: 61431, 61432
+5/29/2023 1:05:47 PMProcess 'msedge.exe' (PID 1312) started
+5/29/2023 1:05:47 PMProcess 'msedge.exe' (PID 1436) started
+5/29/2023 1:05:47 PMProcess 'msedge.exe' (PID 23640) started
+5/29/2023 1:05:47 PMProcess 'msedge.exe' (PID 28312) started
+5/29/2023 1:05:47 PMProcess 'msedge.exe' (PID 5164) started
+5/29/2023 1:05:47 PMProcess 'msedge.exe' (PID 9172) started
+5/29/2023 1:05:48 PMProcess 'msedge.exe' (PID 14932) started
+5/29/2023 1:05:48 PMProcess 'msedge.exe' (PID 16488) started
+5/29/2023 1:05:48 PMProcess 'msedge.exe' (PID 16532) started
+5/29/2023 1:05:48 PMProcess 'msedge.exe' (PID 17588) started
+5/29/2023 1:05:48 PMProcess 'msedge.exe' (PID 1792) started
+5/29/2023 1:05:48 PMProcess 'msedge.exe' (PID 18300) started
+5/29/2023 1:05:48 PMProcess 'msedge.exe' (PID 1900) started
+5/29/2023 1:05:48 PMProcess 'msedge.exe' (PID 21864) started
+5/29/2023 1:05:48 PMProcess 'msedge.exe' (PID 22216) started
+5/29/2023 1:05:48 PMProcess 'msedge.exe' (PID 23392) started
+5/29/2023 1:05:48 PMProcess 'msedge.exe' (PID 8208) started
+5/29/2023 1:05:48 PMProcess 'msedge.exe' (PID 8280) started
+5/29/2023 1:05:48 PMNewly opened ports: 61433, 61434, 61436, 61437, 61438, 61439, 61440, 61441, 61442, 61443, 61445
+5/29/2023 1:05:49 PMProcess 'msedge.exe' (PID 12372) started
+5/29/2023 1:05:49 PMProcess 'msedge.exe' (PID 21556) started
+5/29/2023 1:05:53 PMProcess 'UsoClient.exe' (PID 26140) started
+5/29/2023 1:05:53 PMProcess 'svchost.exe' (PID 6000) started
+5/29/2023 1:05:53 PMProcess 'MoUsoCoreWorker.exe' (PID 6160) started
+5/29/2023 1:05:53 PMNewly opened ports: 61446, 61447, 61448, 61449, 61450, 61451, 61452, 61453, 61454, 61455, 61456, 61457, 61458
+5/29/2023 1:05:58 PMNewly opened ports: 61459, 61460, 61461, 61462, 61463, 61464
+5/29/2023 1:06:00 PMProcess 'Notepad.exe' (PID 3200) started
+5/29/2023 1:06:24 PMProcess 'Teams.exe' (PID 23840) started
+5/29/2023 1:06:28 PMNewly opened ports: 61465, 61466, 61467, 61468, 61469, 61470
+5/29/2023 1:06:33 PMNewly opened ports: 61471
+5/29/2023 1:06:47 PMProcess 'msedgewebview2.exe' (PID 28164) started
+5/29/2023 1:06:48 PMNewly opened ports: 61472, 61473, 61475
+5/29/2023 1:06:48 PMProcess 'identity_helper.exe' (PID 21984) started
+5/29/2023 1:06:48 PMProcess 'msedge.exe' (PID 22676) started
+5/29/2023 1:06:48 PMProcess 'msedge.exe' (PID 24512) started
+5/29/2023 1:06:48 PMProcess 'svchost.exe' (PID 25552) started
+5/29/2023 1:06:48 PMProcess 'msedge.exe' (PID 25688) started
+5/29/2023 1:06:48 PMProcess 'svchost.exe' (PID 26492) started
+5/29/2023 1:06:48 PMProcess 'wermgr.exe' (PID 4308) started
+5/29/2023 1:06:48 PMProcess 'msedge.exe' (PID 924) started
+5/29/2023 1:06:49 PMProcess 'msedge.exe' (PID 14792) started
+5/29/2023 1:06:53 PMNewly opened ports: 61476, 61478, 61479, 61480, 61481
+5/29/2023 1:06:59 PMProcess 'Notepad.exe' (PID 10504) started
+5/29/2023 1:07:03 PMNewly opened ports: 61482
+5/29/2023 1:07:04 PMProcess 'backgroundTaskHost.exe' (PID 17804) started
+5/29/2023 1:07:08 PMNewly opened ports: 61483
+5/29/2023 1:07:08 PMProcess 'msedge.exe' (PID 17960) started
+5/29/2023 1:07:34 PMProcess 'MoUsoCoreWorker.exe' (PID 21992) started
+5/29/2023 1:07:34 PMProcess 'svchost.exe' (PID 2300) started
+5/29/2023 1:07:38 PMNewly opened ports: 61484, 61485
+5/29/2023 1:07:51 PMProcess 'WmiApSrv.exe' (PID 23032) started
