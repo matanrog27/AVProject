@@ -50,6 +50,7 @@
     <Compile Include="AVEngine.cs" />
     <Compile Include="DirectoryWatcher.cs" />
     <Compile Include="FileScanner.cs" />
+    <Compile Include="FileToScan.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>

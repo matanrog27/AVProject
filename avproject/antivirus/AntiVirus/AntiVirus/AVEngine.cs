@@ -14,15 +14,15 @@ namespace AV
     {
         private static readonly List<string> DirectoryToWatchList = new List<string> 
         {
-            @"C:\Users\majd4\AppData",
-            @"C:\Users\majd4\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup",
+            @"C:\Users\mikie\AppData",
+            @"C:\Users\mikie\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup",
         };
           
       
         
 
 
-        public static Queue<string> FilesToScan = new Queue<string>();
+        public static Queue<FileToScan> FilesToScan = new Queue< FileToScan>();
         public Queue<string> BadFiles = new Queue<string>();
 
         public void Start()
@@ -49,11 +49,11 @@ namespace AV
             portListenerThred.Start();
         }
 
-        public static void QueueFileForScan(string filename)
+        public static void QueueFileForScan(FileToScan fts)
         {
             lock (FilesToScan)
             {
-                FilesToScan.Enqueue(filename);
+                FilesToScan.Enqueue(fts);
             }
         }
 
@@ -61,7 +61,7 @@ namespace AV
         {
             while (true) // Scanner thread loops until the program exits
             {
-                string fileToScan = null; // To hold what we take out of the queue
+                FileToScan fileToScan = null; // To hold what we take out of the queue
                 lock (FilesToScan)
                 {
                     try
@@ -74,36 +74,32 @@ namespace AV
                     }
                 }
 
-                if (fileToScan != null)
+                if ((fileToScan?.file_path!=string.Empty) && (fileToScan?.file_path!=null) && fileToScan!=null)
                 {
                     // Now, scan the file
-                    int scanerResult = FileScanner.Scan(fileToScan);
-                    if (scanerResult == -1)
+                    int scanerResult = FileScanner.Scan(fileToScan.file_path);
+                    if (scanerResult == 1)
                     {
+                        //white list file
                        
-                        using (StreamWriter writer = new StreamWriter(DirectoryWatcher.logPath, true))
-                        {
-                            // Write an initial message or header
-                            writer.WriteLine(DateTime.Now + " WARNING! A VIRUS WAS DETECTED at path:" + fileToScan);
-                        }
-                        //Console.WriteLine("A VIRUS WAS DETECTED");
+                    }
+                    else if (scanerResult == -1)
+                    {
+                            using (StreamWriter writer = new StreamWriter(DirectoryWatcher.logPath, true))
+                            {
+                                // Write an initial message or header
+                                writer.WriteLine(DateTime.Now + " WARNING! A VIRUS WAS DETECTED - {0} at path:{1}",fileToScan.reson_for_scan,fileToScan.file_path );
+                                MessageBox.Show("Danger! This is a dangerous virus!", "Alert", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                            }
+                       
                     }
                     else
-                        if (scanerResult == 1)
-                        {
-                        //using (StreamWriter writer = new StreamWriter(DirectoryWatcher.logPath, true))
-                        //{
-                        //    // Write an initial message or header
-                        //    writer.WriteLine(DateTime.Now + "A VIRUS WAS DETECTED at path:" + fileToScan);
-                        //}
-                    }
-                        else
-                        {
-                        using (StreamWriter writer = new StreamWriter(DirectoryWatcher.logPath, true))
-                        {
-                            // Write an initial message or header
-                            writer.WriteLine(DateTime.Now + " WARNING! AN UNKNOWN FILE WAS DETECTED at path:" + fileToScan);
-                        }
+                    {
+                            using (StreamWriter writer = new StreamWriter(DirectoryWatcher.logPath, true))
+                            {
+                                // Write an initial message or header
+                                writer.WriteLine(DateTime.Now + " WARNING! AN UNKNOWN FILE WAS DETECTED - {0} at path:{1}", fileToScan.reson_for_scan, fileToScan.file_path);
+                            }
                     }
                 }
             }

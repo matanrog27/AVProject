@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using System.Management;
 using System.Windows.Forms;
 using System.IO;
+using AV;
 
 namespace AntiVirus
 {
@@ -30,11 +31,21 @@ namespace AntiVirus
                 string processName = (string)instance["Name"];
                 uint processId = (uint)instance["ProcessId"];
 
-                using (StreamWriter writer = new StreamWriter(DirectoryWatcher.logPath, true))
+                
+                // Get the process file path
+                using (ManagementObjectSearcher searcher = new ManagementObjectSearcher("SELECT ExecutablePath FROM Win32_Process WHERE ProcessId = " + processId))
                 {
-                    // Write an initial message or header
-                    writer.WriteLine(DateTime.Now + "Process '{0}' (PID {1}) started", processName, (MessageBoxButtons)processId);
+                    foreach (ManagementObject obj in searcher.Get())
+                    {
+                        string processFilePath = (string)obj["ExecutablePath"];
+                        // Write the process information to the log file
+                        //writer.WriteLine(DateTime.Now + " Process '{0}' (PID {1}) started at '{2}'", processName, processId, processFilePath);
+                        FileToScan fts = new FileToScan(processFilePath, "suspicious file started proccess");
+                        AVEngine.QueueFileForScan(fts);
+                    }
                 }
+                
+                
             };
 
             // Start the watcher

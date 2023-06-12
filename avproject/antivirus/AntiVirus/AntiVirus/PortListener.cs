@@ -1,53 +1,34 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Net.NetworkInformation;
-using System.Text;
-using System.Threading.Tasks;
-
+using System.Management;
 namespace AntiVirus
 {
-    public class PortListener
+    class PortListener
     {
         public static void InitPortListener()
         {
-            Console.WriteLine("Listening for opened ports...");
+            // Create a WMI query to monitor network connections
+            string query = @"SELECT * FROM __InstanceCreationEvent WITHIN 1 WHERE TargetInstance ISA 'Win32_PerfFormattedData_Tcpip_TCPv4'";
 
-            // Retrieve all active TCP connections
-            IPGlobalProperties properties = IPGlobalProperties.GetIPGlobalProperties();
-            TcpConnectionInformation[] connections = properties.GetActiveTcpConnections();
+            // Create a ManagementEventWatcher to monitor the query
+            ManagementEventWatcher watcher = new ManagementEventWatcher(new WqlEventQuery(query));
 
-            // Get the current list of open ports
-            var openPorts = connections.Select(c => c.LocalEndPoint.Port).Distinct().ToList();
-            Console.WriteLine("Currently open ports: " + string.Join(", ", openPorts));
-
-            // Start listening for new ports
-            var timer = new System.Timers.Timer(5000); // Check every 5 seconds
-            timer.Elapsed += (sender, e) =>
+            // Set the event handler for new instance creation events
+            watcher.EventArrived += (sender, e) =>
             {
-                var newConnections = properties.GetActiveTcpConnections();
-                var newPorts = newConnections.Select(c => c.LocalEndPoint.Port).Distinct().ToList();
-
-                var newlyOpenedPorts = newPorts.Except(openPorts);
-                if (newlyOpenedPorts.Any())
-                {
-                    using (StreamWriter writer = new StreamWriter(DirectoryWatcher.logPath, true))
-                    {
-                        // Write an initial message or header
-                        writer.WriteLine(DateTime.Now + "Newly opened ports: " + string.Join(", ", newlyOpenedPorts));
-                    }
-                    openPorts.AddRange(newlyOpenedPorts);
-                }
+                ManagementBaseObject newObject = (ManagementBaseObject)e.NewEvent["TargetInstance"];
+                string processId = newObject["OwningProcess"].ToString();
+                string localAddress = newObject["Name"].ToString();
+                Console.WriteLine($"New connection: Process ID - {processId}, Local Address - {localAddress}");
             };
-            timer.Start();
 
-            // Keep the program running
-            Console.WriteLine("Press Enter to exit.");
+            // Start monitoring
+            watcher.Start();
+            while (true) { }
+            Console.WriteLine("Monitoring new network connections. Press Enter to exit.");
             Console.ReadLine();
-            //timer.Stop();
+
+            // Stop monitoring
+            watcher.Stop();
         }
-
-
     }
 }

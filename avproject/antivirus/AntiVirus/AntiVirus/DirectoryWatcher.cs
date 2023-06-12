@@ -56,42 +56,30 @@ namespace AntiVirus
         static void OnFileCreated(object source, FileSystemEventArgs e)
         {
             
-            using (StreamWriter writer = new StreamWriter(logPath, true))
-            {
-                // Write an initial message or header
-                writer.WriteLine(DateTime.Now+ $" WARNING! File created: {e.FullPath}");
-            }
-            AVEngine.QueueFileForScan(e.FullPath);
+            
+            FileToScan fts = new FileToScan(e.FullPath, $"suspicious file created found at {e.FullPath} - file rename");
+            AVEngine.QueueFileForScan(fts);
         }
 
         static void OnFileChanged(object source, FileSystemEventArgs e)
         {
-            using (StreamWriter writer = new StreamWriter(logPath, true))
-            {
-                // Write an initial message or header
-                writer.WriteLine(DateTime.Now + $" WARNING! File changed: {e.FullPath}");
-            }
-            AVEngine.QueueFileForScan(e.FullPath);
+           
+            FileToScan fts = new FileToScan(e.FullPath, $"suspicious file changed found at {e.FullPath} - file rename");
+            AVEngine.QueueFileForScan(fts);
         }
 
         static void OnFileDeleted(object source, FileSystemEventArgs e)
         {
-            using (StreamWriter writer = new StreamWriter(logPath, true))
-            {
-                // Write an initial message or header
-                writer.WriteLine(DateTime.Now + $" WARNING! File deleted: {e.FullPath}");
-            }
-            AVEngine.QueueFileForScan(e.FullPath);
+            
+            FileToScan fts = new FileToScan(e.FullPath, $"suspicious file deleted found at {e.FullPath} - file rename");
+            AVEngine.QueueFileForScan(fts);
         }
 
         static void OnFileRenamed(object source, RenamedEventArgs e)
         {
-            using (StreamWriter writer = new StreamWriter(logPath, true))
-            {
-                // Write an initial message or header
-                writer.WriteLine(DateTime.Now + $" WARNING! File renamed: {e.FullPath}");
-            }
-            AVEngine.QueueFileForScan(e.FullPath);
+            
+            FileToScan fts = new FileToScan(e.FullPath,$"suspicious file renamed found at {e.FullPath} - file rename");
+            AVEngine.QueueFileForScan(fts);
         }
 
     }
