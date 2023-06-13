@@ -42,13 +42,8 @@ namespace AntiVirus
             DialogResult result = openFileDialog.ShowDialog();
             if (result == DialogResult.OK)
             {
-                string filePath = openFileDialog.FileName;
-                MessageBox.Show($"You selected file: {filePath}");
-
-              
-
-
-                AVEngine.QueueFileForScan(filePath);
+                FileToScan fts = new FileToScan(openFileDialog.FileName, "User scanned file");
+                AVEngine.QueueFileForScan(fts);
 
             }
 
@@ -64,8 +59,6 @@ namespace AntiVirus
             if (result == DialogResult.OK)
             {
                 string folderPath = folderBrowserDialog.SelectedPath;
-                Console.WriteLine($"You selected folder: {folderPath}");
-
                 string[] files = Directory.GetFiles(folderPath);
                 string[] subdirectoryEntries = Directory.GetDirectories(folderPath);
 
@@ -73,17 +66,26 @@ namespace AntiVirus
                 {
                     foreach (string subdirectory in subdirectoryEntries)
                     {
-                        string[] fileEntries = Directory.GetFiles(subdirectory);
-                        foreach (string fileName in fileEntries)
+                        try
                         {
-                            AVEngine.QueueFileForScan(fileName);
+
+                            string[] fileEntries = Directory.GetFiles(subdirectory);
+                            foreach (string fileName in fileEntries)
+                            {
+                                FileToScan fts = new FileToScan(fileName, "User scanned folder");
+                                AVEngine.QueueFileForScan(fts);
+                            }
+                        }catch (UnauthorizedAccessException ex) 
+                        {
+                            //do nothing
                         }
                     }
 
                 }
                 foreach (string file in files)
                 {
-                    AVEngine.QueueFileForScan(file);
+                    FileToScan fts = new FileToScan(file, "User scanned folder");
+                    AVEngine.QueueFileForScan(fts);
                 }
             }
         }
