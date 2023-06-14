@@ -1,225 +1,88 @@
-6/12/2023 5:59:51 PM av started running
-6/12/2023 6:00:41 PM av started running
-6/12/2023 6:00:43 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.43\msedgewebview2.exe
-6/12/2023 6:00:44 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.43\msedgewebview2.exe
-6/12/2023 6:00:44 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.43\msedgewebview2.exe
-6/12/2023 6:00:44 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\WINDOWS\SysWOW64\DllHost.exe
-6/12/2023 6:00:45 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.43\msedgewebview2.exe
-6/12/2023 6:00:45 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.43\msedgewebview2.exe
-6/12/2023 6:00:45 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.43\msedgewebview2.exe
-6/12/2023 6:00:46 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.43\msedgewebview2.exe
-6/12/2023 6:01:20 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files\WindowsApps\Microsoft.WindowsNotepad_11.2304.26.0_x64__8wekyb3d8bbwe\Notepad\Notepad.exe
-6/12/2023 6:01:20 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\WINDOWS\System32\SearchProtocolHost.exe
-6/12/2023 6:01:21 PM failed to scan file: Could not find file 'C:\Windows\System32\smartscreen.exe'.
-6/12/2023 6:01:21 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Windows\System32\smartscreen.exe
-6/12/2023 6:01:21 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Users\mikie\AppData\Local\Microsoft\OneDrive\23.107.0521.0001\FileCoAuth.exe
-6/12/2023 6:02:27 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files\WindowsApps\Microsoft.WindowsNotepad_11.2304.26.0_x64__8wekyb3d8bbwe\Notepad\Notepad.exe
-6/12/2023 6:02:28 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Users\mikie\AppData\Local\Microsoft\OneDrive\23.107.0521.0001\FileCoAuth.exe
-6/12/2023 6:02:30 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files\Google\Chrome\Application\chrome.exe
-6/12/2023 6:02:31 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files\Google\Chrome\Application\chrome.exe
-6/12/2023 6:03:12 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft Visual Studio\Installer\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe
-6/12/2023 6:04:38 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files\Google\Chrome\Application\chrome.exe
-6/12/2023 6:06:25 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files\Google\Chrome\Application\chrome.exe
-6/12/2023 6:07:30 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files\Google\Chrome\Application\chrome.exe
-6/12/2023 6:07:31 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files\Google\Chrome\Application\chrome.exe
-6/12/2023 6:07:32 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files\Google\Chrome\Application\chrome.exe
-6/12/2023 6:08:04 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files\Google\Chrome\Application\chrome.exe
-6/12/2023 6:11:15 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files\Google\Chrome\Application\chrome.exe
-6/12/2023 6:11:57 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files\Google\Chrome\Application\chrome.exe
-6/12/2023 6:17:59 PM av started running
-6/12/2023 6:18:02 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\WINDOWS\SysWOW64\DllHost.exe
-6/12/2023 6:18:02 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.43\msedgewebview2.exe
-6/12/2023 6:18:03 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.43\msedgewebview2.exe
-6/12/2023 6:18:03 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.43\msedgewebview2.exe
-6/12/2023 6:18:03 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.43\msedgewebview2.exe
-6/12/2023 6:18:03 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.43\msedgewebview2.exe
-6/12/2023 6:18:03 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.43\msedgewebview2.exe
-6/12/2023 6:18:04 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.43\msedgewebview2.exe
-6/12/2023 6:18:08 PM failed to scan file: Could not find file 'C:\Windows\System32\RuntimeBroker.exe'.
-6/12/2023 6:18:08 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Windows\System32\RuntimeBroker.exe
-6/12/2023 6:18:08 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\WINDOWS\system32\backgroundTaskHost.exe
-6/12/2023 6:18:09 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\WINDOWS\system32\backgroundTaskHost.exe
-6/12/2023 6:18:09 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\WINDOWS\system32\backgroundTaskHost.exe
-6/12/2023 6:18:10 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\WINDOWS\system32\backgroundTaskHost.exe
-6/12/2023 6:18:10 PM failed to scan file: Could not find file 'C:\Windows\System32\RuntimeBroker.exe'.
-6/12/2023 6:18:10 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Windows\System32\RuntimeBroker.exe
-6/12/2023 6:18:31 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files\Google\Chrome\Application\chrome.exe
-6/12/2023 6:18:31 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files\Google\Chrome\Application\chrome.exe
-6/12/2023 6:18:31 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files\Google\Chrome\Application\chrome.exe
-6/12/2023 6:18:52 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\WINDOWS\SysWOW64\DllHost.exe
-6/12/2023 6:18:53 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\WINDOWS\system32\WerFault.exe
-6/12/2023 6:21:02 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Users\mikie\anaconda3\python.exe
-6/12/2023 6:21:02 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Users\mikie\anaconda3\Scripts\jupyter.exe
-6/12/2023 6:21:03 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Users\mikie\anaconda3\python.exe
-6/12/2023 6:21:03 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files\WindowsApps\microsoft.windowscommunicationsapps_16005.14326.21472.0_x64__8wekyb3d8bbwe\HxTsr.exe
-6/12/2023 6:21:04 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Users\mikie\anaconda3\Scripts\jupyter-notebook.EXE
-6/12/2023 6:21:04 PM failed to scan file: Could not find file 'C:\Windows\System32\RuntimeBroker.exe'.
-6/12/2023 6:21:04 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Windows\System32\RuntimeBroker.exe
-6/12/2023 6:21:15 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files\Google\Chrome\Application\chrome.exe
-6/12/2023 6:21:15 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files\Google\Chrome\Application\chrome.exe
-6/12/2023 6:21:17 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files\Google\Chrome\Application\chrome.exe
-6/12/2023 6:22:30 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files\Google\Chrome\Application\chrome.exe
-6/12/2023 6:22:31 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files\Google\Chrome\Application\chrome.exe
-6/12/2023 6:22:37 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files\Google\Chrome\Application\chrome.exe
-6/12/2023 6:24:40 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files\Google\Chrome\Application\chrome.exe
-6/12/2023 6:29:37 PM av started running
-6/12/2023 6:29:40 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.43\msedgewebview2.exe
-6/12/2023 6:29:40 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.43\msedgewebview2.exe
-6/12/2023 6:29:40 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.43\msedgewebview2.exe
-6/12/2023 6:29:41 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.43\msedgewebview2.exe
-6/12/2023 6:29:41 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.43\msedgewebview2.exe
-6/12/2023 6:29:41 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.43\msedgewebview2.exe
-6/12/2023 6:30:00 PM av started running
-6/12/2023 6:30:02 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.43\msedgewebview2.exe
-6/12/2023 6:30:03 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.43\msedgewebview2.exe
-6/12/2023 6:30:03 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.43\msedgewebview2.exe
-6/12/2023 6:30:03 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.43\msedgewebview2.exe
-6/12/2023 6:30:03 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.43\msedgewebview2.exe
-6/12/2023 6:30:04 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.43\msedgewebview2.exe
-6/12/2023 6:30:04 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.43\msedgewebview2.exe
-6/12/2023 6:30:04 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.43\msedgewebview2.exe
-6/12/2023 6:30:05 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.43\msedgewebview2.exe
-6/12/2023 6:37:14 PM av started running
-6/12/2023 6:37:40 PM av started running
-6/12/2023 6:37:42 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.43\msedgewebview2.exe
-6/12/2023 6:37:43 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.43\msedgewebview2.exe
-6/12/2023 6:37:43 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.43\msedgewebview2.exe
-6/12/2023 6:37:44 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.43\msedgewebview2.exe
-6/12/2023 6:37:44 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.43\msedgewebview2.exe
-6/12/2023 6:37:44 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.43\msedgewebview2.exe
-6/12/2023 6:37:44 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.43\msedgewebview2.exe
-6/12/2023 6:38:51 PM av started running
-6/12/2023 6:42:47 PM av started running
-6/12/2023 6:43:26 PM av started running
-6/12/2023 6:43:29 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.43\msedgewebview2.exe
-6/12/2023 6:43:29 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.43\msedgewebview2.exe
-6/12/2023 6:43:30 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.43\msedgewebview2.exe
-6/12/2023 6:43:30 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.43\msedgewebview2.exe
-6/12/2023 6:43:30 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.43\msedgewebview2.exe
-6/12/2023 6:43:31 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.43\msedgewebview2.exe
-6/12/2023 6:43:31 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.43\msedgewebview2.exe
-6/12/2023 6:43:50 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Users\mikie\anaconda3\Scripts\jupyter-notebook.EXE
-6/12/2023 6:43:51 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Users\mikie\anaconda3\python.exe
-6/12/2023 6:43:51 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Users\mikie\anaconda3\Scripts\jupyter.exe
-6/12/2023 6:43:51 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Users\mikie\anaconda3\python.exe
-6/12/2023 6:44:02 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files\Google\Chrome\Application\chrome.exe
-6/12/2023 6:44:02 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files\Google\Chrome\Application\chrome.exe
-6/12/2023 6:44:03 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files\Google\Chrome\Application\chrome.exe
-6/12/2023 6:44:06 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files\Google\Chrome\Application\chrome.exe
-6/12/2023 6:44:30 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\WINDOWS\system32\backgroundTaskHost.exe
-6/12/2023 6:44:30 PM failed to scan file: Could not find file 'C:\Windows\System32\RuntimeBroker.exe'.
-6/12/2023 6:44:30 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Windows\System32\RuntimeBroker.exe
-6/12/2023 6:44:30 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\WINDOWS\system32\backgroundTaskHost.exe
-6/12/2023 6:44:31 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\WINDOWS\system32\backgroundTaskHost.exe
-6/12/2023 6:44:32 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\WINDOWS\system32\backgroundTaskHost.exe
-6/12/2023 6:44:32 PM failed to scan file: Could not find file 'C:\Windows\System32\RuntimeBroker.exe'.
-6/12/2023 6:44:32 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Windows\System32\RuntimeBroker.exe
-6/12/2023 6:44:52 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Users\mikie\AppData\Local\GitHubDesktop\app-3.2.2\resources\app\git\mingw64\bin\git.exe
-6/12/2023 6:45:06 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\WINDOWS\system32\backgroundTaskHost.exe
-6/12/2023 6:46:54 PM av started running
-6/12/2023 6:46:57 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.43\msedgewebview2.exe
-6/12/2023 6:46:57 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.43\msedgewebview2.exe
-6/12/2023 6:46:57 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.43\msedgewebview2.exe
-6/12/2023 6:46:58 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.43\msedgewebview2.exe
-6/12/2023 6:46:58 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.43\msedgewebview2.exe
-6/12/2023 6:46:58 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.43\msedgewebview2.exe
-6/12/2023 6:46:59 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.43\msedgewebview2.exe
-6/12/2023 6:47:30 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Users\mikie\anaconda3\python.exe
-6/12/2023 6:47:30 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Users\mikie\anaconda3\python.exe
-6/12/2023 6:47:30 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files\Google\Chrome\Application\chrome.exe
-6/12/2023 6:47:31 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Users\mikie\anaconda3\Scripts\jupyter-notebook.EXE
-6/12/2023 6:47:31 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Users\mikie\anaconda3\Scripts\jupyter.exe
-6/12/2023 6:47:32 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files\Google\Chrome\Application\chrome.exe
-6/12/2023 6:47:40 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files\Google\Chrome\Application\chrome.exe
-6/12/2023 6:47:40 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files\Google\Chrome\Application\chrome.exe
-6/12/2023 6:47:41 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files\Google\Chrome\Application\chrome.exe
-6/12/2023 6:47:44 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files\Google\Chrome\Application\chrome.exe
-6/13/2023 7:05:03 PM av started running
-6/13/2023 7:05:22 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\WINDOWS\SysWOW64\DllHost.exe
-6/13/2023 7:05:27 PM WARNING! AN UNKNOWN FILE WAS DETECTED - User scanned file at path:C:\Users\mikie\OneDrive\שולחן העבודה\text1.txt
-6/13/2023 7:06:14 PM av started running
-6/13/2023 7:06:49 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\WINDOWS\SysWOW64\DllHost.exe
-6/13/2023 7:07:02 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Users\mikie\AppData\Local\GitHubDesktop\app-3.2.3\resources\app\git\cmd\git.exe
-6/13/2023 7:07:11 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\WINDOWS\SysWOW64\DllHost.exe
-6/13/2023 7:07:15 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\WINDOWS\SysWOW64\DllHost.exe
-6/13/2023 7:07:32 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\WINDOWS\system32\BackgroundTaskHost.exe
-6/13/2023 7:07:32 PM failed to scan file: Could not find file 'C:\Windows\System32\RuntimeBroker.exe'.
-6/13/2023 7:07:32 PM WARNING! A VIRUS WAS DETECTED - suspicious file started proccess by huristic signature at path:C:\Windows\System32\RuntimeBroker.exe
-6/13/2023 7:08:11 PM failed to scan file: Could not find file 'C:\Windows\System32\RuntimeBroker.exe'.
-6/13/2023 7:08:11 PM WARNING! A VIRUS WAS DETECTED - suspicious file started proccess by huristic signature at path:C:\Windows\System32\RuntimeBroker.exe
-6/13/2023 7:09:01 PM av started running
-6/13/2023 7:09:04 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\PrivateAssemblies\ScriptedSandbox64.exe
-6/13/2023 7:09:14 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\WINDOWS\SysWOW64\DllHost.exe
-6/13/2023 7:09:22 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\WINDOWS\system32\backgroundTaskHost.exe
-6/13/2023 7:09:23 PM failed to scan file: Could not find file 'C:\Windows\System32\RuntimeBroker.exe'.
-6/13/2023 7:09:23 PM WARNING! A VIRUS WAS DETECTED - suspicious file started proccess by huristic signature at path:C:\Windows\System32\RuntimeBroker.exe
-6/13/2023 7:12:43 PM av started running
-6/13/2023 7:12:47 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\WINDOWS\SysWOW64\DllHost.exe
-6/13/2023 7:12:48 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files\Google\Chrome\Application\chrome.exe
-6/13/2023 7:12:55 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\WINDOWS\SysWOW64\DllHost.exe
-6/13/2023 7:13:03 PM WARNING! AN UNKNOWN FILE WAS DETECTED - User scanned file at path:C:\Users\mikie\OneDrive\שולחן העבודה\text1.txt
-6/13/2023 7:13:08 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\WINDOWS\System32\SearchProtocolHost.exe
-6/13/2023 7:13:23 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\WINDOWS\system32\backgroundTaskHost.exe
-6/13/2023 7:13:24 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\windows\system32\backgroundTaskHost.exe
-6/13/2023 7:13:24 PM failed to scan file: Could not find file 'C:\Windows\System32\RuntimeBroker.exe'.
-6/13/2023 7:13:24 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Windows\System32\RuntimeBroker.exe
-6/13/2023 7:13:24 PM failed to scan file: Could not find file 'C:\Windows\System32\RuntimeBroker.exe'.
-6/13/2023 7:13:24 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Windows\System32\RuntimeBroker.exe
-6/13/2023 7:13:33 PM av started running
-6/13/2023 7:13:42 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\WINDOWS\SysWOW64\DllHost.exe
-6/13/2023 7:13:44 PM WARNING! AN UNKNOWN FILE WAS DETECTED - User scanned file at path:C:\Users\mikie\OneDrive\שולחן העבודה\text1.txt
-6/13/2023 7:13:45 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\WINDOWS\SysWOW64\DllHost.exe
-6/13/2023 7:13:49 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\WINDOWS\system32\WerFault.exe
-6/13/2023 7:15:06 PM av started running
-6/13/2023 7:15:47 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\PrivateAssemblies\ScriptedSandbox64.exe
-6/13/2023 7:15:49 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files\Google\Chrome\Application\chrome.exe
-6/13/2023 7:16:01 PM av started running
-6/13/2023 7:16:07 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\PrivateAssemblies\ScriptedSandbox64.exe
-6/13/2023 7:16:19 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\WINDOWS\SysWOW64\DllHost.exe
-6/13/2023 7:17:36 PM av started running
-6/13/2023 7:17:42 PM WARNING! A VIRUS WAS DETECTED - suspicious file started proccess by huristic signature at path:C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\PrivateAssemblies\ScriptedSandbox64.exe
-6/13/2023 7:18:54 PM WARNING! A VIRUS WAS DETECTED - suspicious file started proccess by huristic signature at path:C:\WINDOWS\SysWOW64\DllHost.exe
-6/13/2023 7:19:36 PM WARNING! A VIRUS WAS DETECTED - User scanned file by huristic signature at path:C:\Users\mikie\OneDrive\שולחן העבודה\text1.txt
-6/13/2023 7:19:51 PM WARNING! A VIRUS WAS DETECTED - suspicious file started proccess by huristic signature at path:C:\Program Files\Google\Chrome\Application\chrome.exe
-6/13/2023 7:20:26 PM av started running
-6/13/2023 7:20:34 PM WARNING! A VIRUS WAS DETECTED - suspicious file started proccess by huristic signature at path:C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\PrivateAssemblies\ScriptedSandbox64.exe
-6/13/2023 7:21:23 PM WARNING! A VIRUS WAS DETECTED - User scanned file by huristic signature at path:C:\Users\mikie\OneDrive\שולחן העבודה\text1.txt
-6/13/2023 7:21:32 PM WARNING! A VIRUS WAS DETECTED - suspicious file started proccess by huristic signature at path:C:\Program Files\WindowsApps\microsoft.windowscommunicationsapps_16005.14326.21472.0_x64__8wekyb3d8bbwe\HxTsr.exe
-6/13/2023 7:21:33 PM failed to scan file: Could not find file 'C:\Windows\System32\RuntimeBroker.exe'.
-6/13/2023 7:21:33 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Windows\System32\RuntimeBroker.exe
-6/13/2023 7:22:20 PM WARNING! A VIRUS WAS DETECTED - suspicious file started proccess by huristic signature at path:C:\WINDOWS\SysWOW64\DllHost.exe
-6/13/2023 7:23:17 PM WARNING! A VIRUS WAS DETECTED - User scanned file by huristic signature at path:C:\Users\mikie\OneDrive\שולחן העבודה\text1.txt
-6/13/2023 7:23:53 PM WARNING! A VIRUS WAS DETECTED - suspicious file started proccess by huristic signature at path:C:\Program Files\Google\Chrome\Application\chrome.exe
-6/13/2023 7:26:46 PM av started running
-6/13/2023 7:27:02 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\WINDOWS\SysWOW64\DllHost.exe
-6/13/2023 7:28:59 PM WARNING! AN UNKNOWN FILE WAS DETECTED - User scanned file at path:C:\Users\mikie\OneDrive\שולחן העבודה\text1.txt
-6/13/2023 7:29:51 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files\Google\Chrome\Application\chrome.exe
-6/13/2023 7:33:29 PM av started running
-6/13/2023 7:33:38 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\PrivateAssemblies\ScriptedSandbox64.exe
-6/13/2023 7:33:53 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\WINDOWS\SysWOW64\DllHost.exe
-6/13/2023 7:33:57 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\WINDOWS\System32\SearchProtocolHost.exe
-6/13/2023 7:34:56 PM WARNING! AN UNKNOWN FILE WAS DETECTED - User scanned file at path:C:\Users\mikie\OneDrive\שולחן העבודה\text1.txt
-6/13/2023 7:34:56 PM failed to scan file: Could not find file 'C:\Windows\System32\RuntimeBroker.exe'.
-6/13/2023 7:34:56 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Windows\System32\RuntimeBroker.exe
-6/13/2023 7:36:33 PM av started running
-6/13/2023 7:36:41 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\PrivateAssemblies\ScriptedSandbox64.exe
-6/13/2023 7:36:50 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\WINDOWS\SysWOW64\DllHost.exe
-6/13/2023 7:37:40 PM WARNING! AN UNKNOWN FILE WAS DETECTED - User scanned file at path:C:\Users\mikie\OneDrive\שולחן העבודה\text1.txt
-6/13/2023 7:40:10 PM av started running
-6/13/2023 7:40:24 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\PrivateAssemblies\ScriptedSandbox64.exe
-6/13/2023 7:40:43 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\WINDOWS\SysWOW64\DllHost.exe
-6/13/2023 7:45:47 PM av started running
-6/13/2023 7:46:03 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\WINDOWS\SysWOW64\DllHost.exe
-6/13/2023 7:46:10 PM WARNING! A VIRUS WAS DETECTED - User scanned file at path:C:\Users\mikie\OneDrive\שולחן העבודה\text1.txt
-6/13/2023 7:46:42 PM WARNING! A VIRUS WAS DETECTED - User scanned file at path:C:\Users\mikie\OneDrive\שולחן העבודה\text1.txt
-6/13/2023 7:47:00 PM WARNING! A VIRUS WAS DETECTED - User scanned file at path:C:\Users\mikie\OneDrive\שולחן העבודה\text1.txt
-6/13/2023 7:47:29 PM av started running
-6/13/2023 7:47:36 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\PrivateAssemblies\ScriptedSandbox64.exe
-6/13/2023 7:47:46 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files\Google\Chrome\Application\chrome.exe
-6/13/2023 7:47:51 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files\Google\Chrome\Application\chrome.exe
-6/13/2023 7:47:58 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\WINDOWS\SysWOW64\DllHost.exe
-6/13/2023 7:48:02 PM WARNING! A VIRUS WAS DETECTED - User scanned file at path:C:\Users\mikie\OneDrive\שולחן העבודה\text1.txt
-6/13/2023 7:48:51 PM av started running
-6/13/2023 7:49:05 PM av started running
-6/13/2023 7:49:09 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\PrivateAssemblies\ScriptedSandbox64.exe
-6/13/2023 7:49:15 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\WINDOWS\SysWOW64\DllHost.exe
+6/14/2023 12:57:10 PM av started running
+6/14/2023 12:57:13 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\PrivateAssemblies\ScriptedSandbox64.exe
+6/14/2023 12:57:32 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files\Google\Chrome\Application\chrome.exe
+6/14/2023 12:57:33 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files\Google\Chrome\Application\chrome.exe
+6/14/2023 12:57:47 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\WINDOWS\system32\DllHost.exe
+6/14/2023 12:57:48 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files\WindowsApps\Microsoft.WindowsNotepad_11.2304.26.0_x64__8wekyb3d8bbwe\Notepad\Notepad.exe
+6/14/2023 1:42:13 PM av started running
+6/14/2023 1:42:39 PM av started running
+6/14/2023 1:42:42 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\PrivateAssemblies\ScriptedSandbox64.exe
+6/14/2023 1:47:39 PM av started running
+6/14/2023 1:47:42 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\PrivateAssemblies\ScriptedSandbox64.exe
+6/14/2023 1:48:32 PM av started running
+6/14/2023 1:48:35 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\PrivateAssemblies\ScriptedSandbox64.exe
+6/14/2023 1:49:03 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file found at registery found at C:\System.sav\util\HPSEU\HpseuHostLauncher.exe - file rename at path:C:\System.sav\util\HPSEU\HpseuHostLauncher.exe
+6/14/2023 1:49:03 PM failed to scan file: Illegal characters in path.
+6/14/2023 1:49:03 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file found at registery found at "C:\Users\mikie\AppData\Local\Microsoft\OneDrive\OneDrive.exe" /background - file rename at path:"C:\Users\mikie\AppData\Local\Microsoft\OneDrive\OneDrive.exe" /background
+6/14/2023 1:49:03 PM failed to scan file: Illegal characters in path.
+6/14/2023 1:49:03 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file found at registery found at C:\Users\mikie\AppData\Local\Microsoft\Teams\Update.exe --processStart "Teams.exe" --process-start-args "--system-initiated" - file rename at path:C:\Users\mikie\AppData\Local\Microsoft\Teams\Update.exe --processStart "Teams.exe" --process-start-args "--system-initiated"
+6/14/2023 1:49:07 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file found at registery found at C:\Users\mikie\AppData\Local\Programs\safe-watch\resources\app\swch_go_service\swch_go_service.exe - file rename at path:C:\Users\mikie\AppData\Local\Programs\safe-watch\resources\app\swch_go_service\swch_go_service.exe
+6/14/2023 1:49:08 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file found at registery found at C:\Users\mikie\AppData\Local\Postman-Agent\Postman Agent.exe - file rename at path:C:\Users\mikie\AppData\Local\Postman-Agent\Postman Agent.exe
+6/14/2023 1:49:08 PM failed to scan file: Illegal characters in path.
+6/14/2023 1:49:08 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file found at registery found at "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --no-startup-window --win-session-start /prefetch:5 - file rename at path:"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --no-startup-window --win-session-start /prefetch:5
+6/14/2023 1:49:08 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file found at registery found at C:\Users\mikie\OneDrive\שולחן העבודה\AVProject\avproject\antivirus\AntiVirus\AntiVirus\bin\Debug\AntiVirus.exe - file rename at path:C:\Users\mikie\OneDrive\שולחן העבודה\AVProject\avproject\antivirus\AntiVirus\AntiVirus\bin\Debug\AntiVirus.exe
+6/14/2023 1:49:08 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file found at registery found at C:\Users\mikie\AppData\Local\Grammarly\DesktopIntegrations\Grammarly.Desktop.exe - file rename at path:C:\Users\mikie\AppData\Local\Grammarly\DesktopIntegrations\Grammarly.Desktop.exe
+6/14/2023 1:49:26 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file found at registery found at C:\System.sav\util\HPSEU\HpseuHostLauncher.exe - file rename at path:C:\System.sav\util\HPSEU\HpseuHostLauncher.exe
+6/14/2023 1:49:26 PM failed to scan file: Illegal characters in path.
+6/14/2023 1:49:27 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file found at registery found at "C:\Users\mikie\AppData\Local\Microsoft\OneDrive\OneDrive.exe" /background - file rename at path:"C:\Users\mikie\AppData\Local\Microsoft\OneDrive\OneDrive.exe" /background
+6/14/2023 1:49:27 PM failed to scan file: Illegal characters in path.
+6/14/2023 1:49:27 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file found at registery found at C:\Users\mikie\AppData\Local\Microsoft\Teams\Update.exe --processStart "Teams.exe" --process-start-args "--system-initiated" - file rename at path:C:\Users\mikie\AppData\Local\Microsoft\Teams\Update.exe --processStart "Teams.exe" --process-start-args "--system-initiated"
+6/14/2023 1:49:32 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file found at registery found at C:\Users\mikie\AppData\Local\Programs\safe-watch\resources\app\swch_go_service\swch_go_service.exe - file rename at path:C:\Users\mikie\AppData\Local\Programs\safe-watch\resources\app\swch_go_service\swch_go_service.exe
+6/14/2023 1:49:39 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file found at registery found at C:\Users\mikie\AppData\Local\Postman-Agent\Postman Agent.exe - file rename at path:C:\Users\mikie\AppData\Local\Postman-Agent\Postman Agent.exe
+6/14/2023 1:49:39 PM failed to scan file: Illegal characters in path.
+6/14/2023 1:49:39 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file found at registery found at "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --no-startup-window --win-session-start /prefetch:5 - file rename at path:"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --no-startup-window --win-session-start /prefetch:5
+6/14/2023 1:49:39 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file found at registery found at C:\Users\mikie\OneDrive\שולחן העבודה\AVProject\avproject\antivirus\AntiVirus\AntiVirus\bin\Debug\AntiVirus.exe - file rename at path:C:\Users\mikie\OneDrive\שולחן העבודה\AVProject\avproject\antivirus\AntiVirus\AntiVirus\bin\Debug\AntiVirus.exe
+6/14/2023 1:49:39 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file found at registery found at C:\Users\mikie\AppData\Local\Grammarly\DesktopIntegrations\Grammarly.Desktop.exe - file rename at path:C:\Users\mikie\AppData\Local\Grammarly\DesktopIntegrations\Grammarly.Desktop.exe
+6/14/2023 1:49:39 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file found at registery found at C:\System.sav\util\HPSEU\HpseuHostLauncher.exe - file rename at path:C:\System.sav\util\HPSEU\HpseuHostLauncher.exe
+6/14/2023 1:49:39 PM failed to scan file: Illegal characters in path.
+6/14/2023 1:49:39 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file found at registery found at "C:\Users\mikie\AppData\Local\Microsoft\OneDrive\OneDrive.exe" /background - file rename at path:"C:\Users\mikie\AppData\Local\Microsoft\OneDrive\OneDrive.exe" /background
+6/14/2023 1:49:39 PM failed to scan file: Illegal characters in path.
+6/14/2023 1:49:39 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file found at registery found at C:\Users\mikie\AppData\Local\Microsoft\Teams\Update.exe --processStart "Teams.exe" --process-start-args "--system-initiated" - file rename at path:C:\Users\mikie\AppData\Local\Microsoft\Teams\Update.exe --processStart "Teams.exe" --process-start-args "--system-initiated"
+6/14/2023 1:49:45 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file found at registery found at C:\Users\mikie\AppData\Local\Programs\safe-watch\resources\app\swch_go_service\swch_go_service.exe - file rename at path:C:\Users\mikie\AppData\Local\Programs\safe-watch\resources\app\swch_go_service\swch_go_service.exe
+6/14/2023 1:49:45 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file found at registery found at C:\Users\mikie\AppData\Local\Postman-Agent\Postman Agent.exe - file rename at path:C:\Users\mikie\AppData\Local\Postman-Agent\Postman Agent.exe
+6/14/2023 1:49:45 PM failed to scan file: Illegal characters in path.
+6/14/2023 1:49:45 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file found at registery found at "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --no-startup-window --win-session-start /prefetch:5 - file rename at path:"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --no-startup-window --win-session-start /prefetch:5
+6/14/2023 1:49:45 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file found at registery found at C:\Users\mikie\OneDrive\שולחן העבודה\AVProject\avproject\antivirus\AntiVirus\AntiVirus\bin\Debug\AntiVirus.exe - file rename at path:C:\Users\mikie\OneDrive\שולחן העבודה\AVProject\avproject\antivirus\AntiVirus\AntiVirus\bin\Debug\AntiVirus.exe
+6/14/2023 1:53:20 PM av started running
+6/14/2023 1:53:22 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\PrivateAssemblies\ScriptedSandbox64.exe
+6/14/2023 1:53:40 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file found at registery found at C:\System.sav\util\HPSEU\HpseuHostLauncher.exe - file rename at path:C:\System.sav\util\HPSEU\HpseuHostLauncher.exe
+6/14/2023 1:53:40 PM failed to scan file: Illegal characters in path.
+6/14/2023 1:53:40 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file found at registery found at "C:\Users\mikie\AppData\Local\Microsoft\OneDrive\OneDrive.exe" /background - file rename at path:"C:\Users\mikie\AppData\Local\Microsoft\OneDrive\OneDrive.exe" /background
+6/14/2023 1:53:40 PM failed to scan file: Illegal characters in path.
+6/14/2023 1:53:40 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file found at registery found at C:\Users\mikie\AppData\Local\Microsoft\Teams\Update.exe --processStart "Teams.exe" --process-start-args "--system-initiated" - file rename at path:C:\Users\mikie\AppData\Local\Microsoft\Teams\Update.exe --processStart "Teams.exe" --process-start-args "--system-initiated"
+6/14/2023 1:53:45 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file found at registery found at C:\Users\mikie\AppData\Local\Programs\safe-watch\resources\app\swch_go_service\swch_go_service.exe - file rename at path:C:\Users\mikie\AppData\Local\Programs\safe-watch\resources\app\swch_go_service\swch_go_service.exe
+6/14/2023 1:53:45 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file found at registery found at C:\Users\mikie\AppData\Local\Postman-Agent\Postman Agent.exe - file rename at path:C:\Users\mikie\AppData\Local\Postman-Agent\Postman Agent.exe
+6/14/2023 1:53:45 PM failed to scan file: Illegal characters in path.
+6/14/2023 1:53:45 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file found at registery found at "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --no-startup-window --win-session-start /prefetch:5 - file rename at path:"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --no-startup-window --win-session-start /prefetch:5
+6/14/2023 1:53:45 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file found at registery found at C:\Users\mikie\OneDrive\שולחן העבודה\AVProject\avproject\antivirus\AntiVirus\AntiVirus\bin\Debug\AntiVirus.exe - file rename at path:C:\Users\mikie\OneDrive\שולחן העבודה\AVProject\avproject\antivirus\AntiVirus\AntiVirus\bin\Debug\AntiVirus.exe
+6/14/2023 1:53:45 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file found at registery found at C:\Users\mikie\AppData\Local\Grammarly\DesktopIntegrations\Grammarly.Desktop.exe - file rename at path:C:\Users\mikie\AppData\Local\Grammarly\DesktopIntegrations\Grammarly.Desktop.exe
+6/14/2023 1:54:00 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file found at registery found at C:\System.sav\util\HPSEU\HpseuHostLauncher.exe - file rename at path:C:\System.sav\util\HPSEU\HpseuHostLauncher.exe
+6/14/2023 1:54:00 PM failed to scan file: Illegal characters in path.
+6/14/2023 1:54:00 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file found at registery found at "C:\Users\mikie\AppData\Local\Microsoft\OneDrive\OneDrive.exe" /background - file rename at path:"C:\Users\mikie\AppData\Local\Microsoft\OneDrive\OneDrive.exe" /background
+6/14/2023 1:54:00 PM failed to scan file: Illegal characters in path.
+6/14/2023 1:54:00 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file found at registery found at C:\Users\mikie\AppData\Local\Microsoft\Teams\Update.exe --processStart "Teams.exe" --process-start-args "--system-initiated" - file rename at path:C:\Users\mikie\AppData\Local\Microsoft\Teams\Update.exe --processStart "Teams.exe" --process-start-args "--system-initiated"
+6/14/2023 1:54:05 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file found at registery found at C:\Users\mikie\AppData\Local\Programs\safe-watch\resources\app\swch_go_service\swch_go_service.exe - file rename at path:C:\Users\mikie\AppData\Local\Programs\safe-watch\resources\app\swch_go_service\swch_go_service.exe
+6/14/2023 1:54:05 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file found at registery found at C:\Users\mikie\AppData\Local\Postman-Agent\Postman Agent.exe - file rename at path:C:\Users\mikie\AppData\Local\Postman-Agent\Postman Agent.exe
+6/14/2023 1:54:05 PM failed to scan file: Illegal characters in path.
+6/14/2023 1:54:05 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file found at registery found at "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --no-startup-window --win-session-start /prefetch:5 - file rename at path:"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --no-startup-window --win-session-start /prefetch:5
+6/14/2023 1:54:05 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file found at registery found at C:\Users\mikie\OneDrive\שולחן העבודה\AVProject\avproject\antivirus\AntiVirus\AntiVirus\bin\Debug\AntiVirus.exe - file rename at path:C:\Users\mikie\OneDrive\שולחן העבודה\AVProject\avproject\antivirus\AntiVirus\AntiVirus\bin\Debug\AntiVirus.exe
+6/14/2023 1:54:06 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file found at registery found at C:\Users\mikie\AppData\Local\Grammarly\DesktopIntegrations\Grammarly.Desktop.exe - file rename at path:C:\Users\mikie\AppData\Local\Grammarly\DesktopIntegrations\Grammarly.Desktop.exe
+6/14/2023 1:54:20 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file found at registery found at C:\System.sav\util\HPSEU\HpseuHostLauncher.exe - file rename at path:C:\System.sav\util\HPSEU\HpseuHostLauncher.exe
+6/14/2023 1:54:20 PM failed to scan file: Illegal characters in path.
+6/14/2023 1:54:20 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file found at registery found at "C:\Users\mikie\AppData\Local\Microsoft\OneDrive\OneDrive.exe" /background - file rename at path:"C:\Users\mikie\AppData\Local\Microsoft\OneDrive\OneDrive.exe" /background
+6/14/2023 1:54:20 PM failed to scan file: Illegal characters in path.
+6/14/2023 1:54:20 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file found at registery found at C:\Users\mikie\AppData\Local\Microsoft\Teams\Update.exe --processStart "Teams.exe" --process-start-args "--system-initiated" - file rename at path:C:\Users\mikie\AppData\Local\Microsoft\Teams\Update.exe --processStart "Teams.exe" --process-start-args "--system-initiated"
+6/14/2023 1:54:30 PM av started running
+6/14/2023 1:54:32 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\PrivateAssemblies\ScriptedSandbox64.exe
+6/14/2023 2:04:58 PM av started running
+6/14/2023 2:07:20 PM av started running
+6/14/2023 2:08:33 PM av started running
+6/14/2023 2:09:25 PM av started running
+6/14/2023 2:09:37 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file found at registery found at C:\System.sav\util\HPSEU\HpseuHostLauncher.exe - file rename at path:C:\System.sav\util\HPSEU\HpseuHostLauncher.exe
+6/14/2023 2:09:37 PM failed to scan file: Illegal characters in path.
+6/14/2023 2:09:37 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file found at registery found at "C:\Users\mikie\AppData\Local\Microsoft\OneDrive\OneDrive.exe" /background - file rename at path:"C:\Users\mikie\AppData\Local\Microsoft\OneDrive\OneDrive.exe" /background
+6/14/2023 2:09:37 PM failed to scan file: Illegal characters in path.
+6/14/2023 2:09:37 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file found at registery found at C:\Users\mikie\AppData\Local\Microsoft\Teams\Update.exe --processStart "Teams.exe" --process-start-args "--system-initiated" - file rename at path:C:\Users\mikie\AppData\Local\Microsoft\Teams\Update.exe --processStart "Teams.exe" --process-start-args "--system-initiated"
+6/14/2023 2:09:37 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file found at registery found at C:\System.sav\util\HPSEU\HpseuHostLauncher.exe - file rename at path:C:\System.sav\util\HPSEU\HpseuHostLauncher.exe
+6/14/2023 2:42:58 PM av started running
+6/14/2023 2:45:41 PM av started running

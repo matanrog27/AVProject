@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+using System.Security.AccessControl;
 namespace AV
 {
     public class AVEngine
@@ -17,11 +17,7 @@ namespace AV
             @"C:\Users\mikie\AppData",
             @"C:\Users\mikie\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup",
         };
-          
-      
-        
-
-
+   
         public static Queue<FileToScan> FilesToScan = new Queue< FileToScan>();
         public Queue<string> BadFiles = new Queue<string>();
 
@@ -36,8 +32,9 @@ namespace AV
             //DirectoryWatcher dw = new DirectoryWatcher();
             Thread threadscanner = new Thread(ScannerThread);
             threadscanner.Start();
-
-            foreach(string dir in DirectoryToWatchList) 
+            Thread registeryThread = new Thread(RegistryScan.Start_Rigistery_Timer);
+            registeryThread.Start();
+            foreach (string dir in DirectoryToWatchList) 
             {
                 Thread appDataWatcherThread = new Thread(() => DirectoryWatcher.InitWatcher(dir));
                 appDataWatcherThread.Start();
