@@ -17,6 +17,8 @@ namespace AV
     public class FileScanner
     {
         private static List<byte[]> badFiles = new List<byte[]>();
+        private static List<byte[]> badFiles_unhash = new List<byte[]>();
+
         private static HashSet<byte[]> goodFiles = new HashSet<byte[]>();
         /// <summary>
         /// Returns true if the file is a virus
@@ -46,10 +48,23 @@ namespace AV
                 }
                 foreach (byte[] virus in badFiles)
                 {
+
+                    //check static signature
                     if (CompareBytes(hash, virus))
                     {
                         return -1;
                     }
+
+                }
+                foreach (byte[] virus in badFiles_unhash)
+                {
+
+                    //check static signature
+                    if (Huristic.huristic_check(file_bytes, virus))
+                    {
+                        return -2;
+                    }
+
                 }
                 return 0;
             }
@@ -60,7 +75,7 @@ namespace AV
                     // Write an initial message or header
                     writer.WriteLine(DateTime.Now + $" failed to scan file: {ex.Message}");
                 }
-                return -2;
+                return -3;
             }
 
              
@@ -90,8 +105,8 @@ namespace AV
         public void GenerateLists()
         {
             // Example usage:
-            string goodFilesTextPath = @"C:\Users\mikie\source\repos\AVclone\avproject\white list.txt";
-            string directoryPath = @"C:\Users\mikie\source\repos\AVclone\avproject\blacklist";
+            string goodFilesTextPath = @"C:\Users\mikie\OneDrive\שולחן העבודה\AVProject\avproject\white list.txt";
+            string directoryPath = @"C:\Users\mikie\OneDrive\שולחן העבודה\AVProject\avproject\blacklist";
              badFiles = GetBadFiles(directoryPath);
              goodFiles = GetGoodFiles(goodFilesTextPath); 
         }
@@ -131,9 +146,12 @@ namespace AV
             foreach (FileInfo file in directory.GetFiles())
             {
                 // Determine if this is a "bad" file based on some criteria (e.g. file size)
-               
-                    // Compute the MD5 hash of the file
-                    byte[] hash;
+                //add the bad file as byte array
+                badFiles_unhash.Add(File.ReadAllBytes(file.FullName));
+
+                // Compute the MD5 hash of the file
+
+                byte[] hash;
                     using (var md5 = MD5.Create())
                     {
                         using (var stream = File.OpenRead(file.FullName))

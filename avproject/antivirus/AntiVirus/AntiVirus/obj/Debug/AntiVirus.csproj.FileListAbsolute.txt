@@ -64,3 +64,13 @@ C:\Users\mikie\Source\Repos\AVclone\avproject\antivirus\AntiVirus\AntiVirus\obj\
 C:\Users\mikie\Source\Repos\AVclone\avproject\antivirus\AntiVirus\AntiVirus\obj\Debug\AntiVirus.csproj.CoreCompileInputs.cache
 C:\Users\mikie\Source\Repos\AVclone\avproject\antivirus\AntiVirus\AntiVirus\obj\Debug\AntiVirus.exe
 C:\Users\mikie\Source\Repos\AVclone\avproject\antivirus\AntiVirus\AntiVirus\obj\Debug\AntiVirus.pdb
+C:\Users\mikie\OneDrive\שולחן העבודה\AVProject\avproject\antivirus\AntiVirus\AntiVirus\bin\Debug\AntiVirus.exe.config
+C:\Users\mikie\OneDrive\שולחן העבודה\AVProject\avproject\antivirus\AntiVirus\AntiVirus\bin\Debug\AntiVirus.exe
+C:\Users\mikie\OneDrive\שולחן העבודה\AVProject\avproject\antivirus\AntiVirus\AntiVirus\bin\Debug\AntiVirus.pdb
+C:\Users\mikie\OneDrive\שולחן העבודה\AVProject\avproject\antivirus\AntiVirus\AntiVirus\obj\Debug\AntiVirus.csproj.AssemblyReference.cache
+C:\Users\mikie\OneDrive\שולחן העבודה\AVProject\avproject\antivirus\AntiVirus\AntiVirus\obj\Debug\AntiVirus.Form1.resources
+C:\Users\mikie\OneDrive\שולחן העבודה\AVProject\avproject\antivirus\AntiVirus\AntiVirus\obj\Debug\AntiVirus.Properties.Resources.resources
+C:\Users\mikie\OneDrive\שולחן העבודה\AVProject\avproject\antivirus\AntiVirus\AntiVirus\obj\Debug\AntiVirus.csproj.GenerateResource.cache
+C:\Users\mikie\OneDrive\שולחן העבודה\AVProject\avproject\antivirus\AntiVirus\AntiVirus\obj\Debug\AntiVirus.csproj.CoreCompileInputs.cache
+C:\Users\mikie\OneDrive\שולחן העבודה\AVProject\avproject\antivirus\AntiVirus\AntiVirus\obj\Debug\AntiVirus.exe
+C:\Users\mikie\OneDrive\שולחן העבודה\AVProject\avproject\antivirus\AntiVirus\AntiVirus\obj\Debug\AntiVirus.pdb

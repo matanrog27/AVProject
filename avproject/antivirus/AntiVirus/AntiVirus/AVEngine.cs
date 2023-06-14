@@ -27,6 +27,7 @@ namespace AV
 
         public void Start()
         {
+            
             using (StreamWriter writer = new StreamWriter(DirectoryWatcher.logPath, true))
             {
                 // Write an initial message or header
@@ -87,11 +88,19 @@ namespace AV
                     {
                             using (StreamWriter writer = new StreamWriter(DirectoryWatcher.logPath, true))
                             {
-                                // Write an initial message or header
+                                // Write an to log
                                 writer.WriteLine(DateTime.Now + " WARNING! A VIRUS WAS DETECTED - {0} at path:{1}",fileToScan.reson_for_scan,fileToScan.file_path );
                                 MessageBox.Show("Danger! This is a dangerous virus!", "Alert", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                             }
-                       
+                    }
+                    else if (scanerResult == -2)
+                    {
+                        using (StreamWriter writer = new StreamWriter(DirectoryWatcher.logPath, true))
+                        {
+                            // Write to log
+                            writer.WriteLine(DateTime.Now + " WARNING! A VIRUS WAS DETECTED - {0} by huristic signature at path:{1}", fileToScan.reson_for_scan, fileToScan.file_path);
+                            MessageBox.Show("Danger! This is a dangerous virus!", "Alert", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                        }
                     }
                     else
                     {
