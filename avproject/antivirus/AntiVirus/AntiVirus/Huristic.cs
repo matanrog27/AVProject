@@ -9,7 +9,6 @@ namespace AntiVirus
 {
     class Huristic
     {
-        
         public static bool huristic_check(byte[] fileToScan, byte[] virus)
         {
             

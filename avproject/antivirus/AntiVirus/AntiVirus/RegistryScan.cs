@@ -11,10 +11,12 @@ namespace AntiVirus
 {
     class RegistryScan
     {
+        private static HashSet<string> ScannedFiles = new HashSet<string>();
+
         public static void Start_Rigistery_Timer()
         {
             Timer timer = new System.Timers.Timer();
-            timer.Interval = 2000; // 20 seconds
+            timer.Interval = 20000; // 20 seconds
             timer.Elapsed += ListProgramsInRunKey;
             timer.Start();
             while (true)
@@ -25,19 +27,22 @@ namespace AntiVirus
         private static void ListProgramsInRunKey(object sender, System.Timers.ElapsedEventArgs e)
         {
            
-            const string keyPath = @"SOFTWARE\Microsoft\Windows\CurrentVersion\Run";
-            int counter = 0;
-            using (RegistryKey key = Registry.LocalMachine.OpenSubKey(keyPath))
+            const string keyPath = @"SOFTWARE\Microsoft\Windows\CurrentVersion\Run\";
+            using (RegistryKey key = Registry.CurrentUser.OpenSubKey(keyPath))
             {
                 if (key != null)
                 {
+                    
                     foreach (string valueName in key.GetValueNames())
                     {
-                        FileToScan fts = new FileToScan(key.GetValue(valueName)?.ToString(), $"suspicious file found at registery found at {key.GetValue(valueName)?.ToString()} - file rename");
-                        AVEngine.QueueFileForScan(fts);
-                        counter++;
+                        if (!ScannedFiles.Contains(valueName))
+                        {
+                            ScannedFiles.Add(valueName);
+                            FileToScan fts = new FileToScan(key.GetValue(valueName)?.ToString(), $"suspicious file found at registery found at {key.GetValue(valueName)?.ToString()} - file rename");
+                            AVEngine.QueueFileForScan(fts);
+                        }
+                        
                     }
-                    Console.WriteLine();
                 }
             }
         }
