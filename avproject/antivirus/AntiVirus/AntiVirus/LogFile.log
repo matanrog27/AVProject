@@ -1843,3 +1843,77 @@
 6/18/2023 1:37:36 PM failed listen to directory: The directory name C:\Users\mikie\AppData is invalid.
 6/18/2023 1:37:37 PM failed listen to directory: The directory name C:\Users\mikie\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup is invalid.
 6/18/2023 1:39:31 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.17.11461.0_x64__8wekyb3d8bbwe\WindowsTerminal.exe
+6/18/2023 2:15:57 PM av started running
+6/18/2023 2:15:57 PM failed listen to directory: The directory name C:\Users\mikie\AppData is invalid.
+6/18/2023 2:15:57 PM failed listen to directory: The directory name C:\Users\mikie\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup is invalid.
+6/18/2023 2:16:02 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.17.11461.0_x64__8wekyb3d8bbwe\WindowsTerminal.exe
+6/18/2023 2:16:06 PM failed to scan file:
+6/18/2023 2:16:16 PM WARNING! A VIRUS WAS DETECTED - User scanned file at path:C:\Users\majd4\OneDrive\מסמכים\GitHub\AVProject\avproject\blacklist\3.txt
+6/18/2023 2:16:20 PM failed to scan file:
+6/18/2023 2:16:21 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file found at registery found at C:\Program Files (x86)\iMobie\AnyTrans\AirBackupHelper.exe - file rename at path:C:\Program Files (x86)\iMobie\AnyTrans\AirBackupHelper.exe
+6/18/2023 2:16:21 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file found at registery found at C:\Users\majd4\AppData\Local\Postman-Agent\Postman Agent.exe - file rename at path:C:\Users\majd4\AppData\Local\Postman-Agent\Postman Agent.exe
+6/18/2023 2:16:21 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file found at registery found at C:\Users\majd4\OneDrive\מסמכים\GitHub\AVProject\avproject\antivirus\AntiVirus\AntiVirus\bin\Debug\AntiVirus.exe - file rename at path:C:\Users\majd4\OneDrive\מסמכים\GitHub\AVProject\avproject\antivirus\AntiVirus\AntiVirus\bin\Debug\AntiVirus.exe
+6/18/2023 2:16:21 PM failed to scan file:
+6/18/2023 2:16:47 PM av started running
+6/18/2023 2:16:47 PM failed listen to directory: The directory name C:\Users\mikie\AppData is invalid.
+6/18/2023 2:16:47 PM failed listen to directory: The directory name C:\Users\mikie\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup is invalid.
+6/18/2023 2:16:53 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.51\msedgewebview2.exe
+6/18/2023 2:16:56 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.51\msedgewebview2.exe
+6/18/2023 2:16:56 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.17.11461.0_x64__8wekyb3d8bbwe\WindowsTerminal.exe
+6/18/2023 2:16:58 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.51\msedgewebview2.exe
+6/18/2023 2:17:00 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.51\msedgewebview2.exe
+6/18/2023 2:17:02 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.51\msedgewebview2.exe
+6/18/2023 2:17:05 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.51\msedgewebview2.exe
+6/18/2023 2:17:08 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.51\msedgewebview2.exe
+6/18/2023 2:17:08 PM failed to scan file:
+6/18/2023 2:17:08 PM WARNING! A VIRUS WAS DETECTED - User scanned file at path:C:\Users\majd4\OneDrive\מסמכים\GitHub\AVProject\avproject\blacklist\4.txt
+6/18/2023 2:17:10 PM failed to scan file:
+6/18/2023 2:17:12 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file found at registery found at C:\Program Files (x86)\iMobie\AnyTrans\AirBackupHelper.exe - file rename at path:C:\Program Files (x86)\iMobie\AnyTrans\AirBackupHelper.exe
+6/18/2023 2:17:12 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file found at registery found at C:\Users\majd4\AppData\Local\Postman-Agent\Postman Agent.exe - file rename at path:C:\Users\majd4\AppData\Local\Postman-Agent\Postman Agent.exe
+6/18/2023 2:17:13 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file found at registery found at C:\Users\majd4\OneDrive\מסמכים\GitHub\AVProject\avproject\antivirus\AntiVirus\AntiVirus\bin\Debug\AntiVirus.exe - file rename at path:C:\Users\majd4\OneDrive\מסמכים\GitHub\AVProject\avproject\antivirus\AntiVirus\AntiVirus\bin\Debug\AntiVirus.exe
+6/18/2023 2:17:13 PM failed to scan file:
+6/18/2023 2:18:47 PM av started running
+6/18/2023 2:18:47 PM failed listen to directory: The directory name C:\Users\mikie\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup is invalid.
+6/18/2023 2:18:47 PM failed listen to directory: The directory name C:\Users\mikie\AppData is invalid.
+6/18/2023 2:20:52 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.51\msedgewebview2.exe
+6/18/2023 2:21:08 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.17.11461.0_x64__8wekyb3d8bbwe\WindowsTerminal.exe
+6/18/2023 2:24:50 PM av started running
+6/18/2023 2:25:08 PM failed listen to directory: The directory name C:\Users\mikie\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup is invalid.
+6/18/2023 2:25:11 PM failed listen to directory: The directory name C:\Users\mikie\AppData is invalid.
+6/18/2023 2:25:32 PM failed to scan file:
+6/18/2023 2:45:48 PM av started running
+6/18/2023 2:45:48 PM failed listen to directory: The directory name C:\Users\mikie\AppData is invalid.
+6/18/2023 2:45:48 PM failed listen to directory: The directory name C:\Users\mikie\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup is invalid.
+6/18/2023 2:47:59 PM av started running
+6/18/2023 2:47:59 PM failed listen to directory: The directory name C:\Users\mikie\AppData is invalid.
+6/18/2023 2:47:59 PM failed listen to directory: The directory name C:\Users\mikie\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup is invalid.
+6/18/2023 4:08:44 PM av started running
+6/18/2023 4:09:45 PM av started running
+6/18/2023 4:09:46 PM failed listen to directory: The directory name C:\Users\mikie\AppData is invalid.
+6/18/2023 4:09:46 PM failed listen to directory: The directory name C:\Users\mikie\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup is invalid.
+6/18/2023 4:12:05 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.51\msedgewebview2.exe
+6/18/2023 4:13:48 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.51\msedgewebview2.exe
+6/18/2023 4:15:25 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.51\msedgewebview2.exe
+6/18/2023 4:15:26 PM failed to scan file:
+6/18/2023 4:16:23 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file found at registery found at C:\Program Files (x86)\iMobie\AnyTrans\AirBackupHelper.exe - file rename at path:C:\Program Files (x86)\iMobie\AnyTrans\AirBackupHelper.exe
+6/18/2023 4:16:41 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file found at registery found at C:\Users\majd4\AppData\Local\Postman-Agent\Postman Agent.exe - file rename at path:C:\Users\majd4\AppData\Local\Postman-Agent\Postman Agent.exe
+6/18/2023 4:16:47 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file found at registery found at C:\Users\majd4\OneDrive\מסמכים\GitHub\AVProject\avproject\antivirus\AntiVirus\AntiVirus\bin\Debug\AntiVirus.exe - file rename at path:C:\Users\majd4\OneDrive\מסמכים\GitHub\AVProject\avproject\antivirus\AntiVirus\AntiVirus\bin\Debug\AntiVirus.exe
+6/18/2023 4:16:47 PM failed to scan file:
+6/18/2023 4:18:24 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.51\msedgewebview2.exe
+6/18/2023 4:19:56 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.51\msedgewebview2.exe
+6/18/2023 4:21:48 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\114.0.1823.51\msedgewebview2.exe
+6/18/2023 4:21:48 PM failed to scan file:
+6/18/2023 4:22:03 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\WINDOWS\system32\BackgroundTaskHost.exe
+6/18/2023 4:22:03 PM failed to scan file:
+6/18/2023 4:22:11 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\WINDOWS\system32\DllHost.exe
+6/18/2023 4:22:16 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\WINDOWS\system32\DllHost.exe
+6/18/2023 4:22:21 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\WINDOWS\system32\DllHost.exe
+6/18/2023 4:22:24 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\WINDOWS\system32\DllHost.exe
+6/18/2023 4:22:28 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\WINDOWS\system32\DllHost.exe
+6/18/2023 4:22:30 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\WINDOWS\system32\DllHost.exe
+6/18/2023 4:22:34 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\WINDOWS\system32\DllHost.exe
+6/18/2023 4:22:37 PM WARNING! A VIRUS WAS DETECTED - User scanned file by huristic signature at path:C:\Users\majd4\OneDrive\מסמכים\GitHub\AVProject\avproject\blacklist\mw-1.2-scenario1-static-signature.exe
+6/18/2023 6:22:29 PM av started running
+6/18/2023 6:22:30 PM failed listen to directory: The directory name C:\Users\mikie\AppData is invalid.
+6/18/2023 6:22:30 PM failed listen to directory: The directory name C:\Users\mikie\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup is invalid.
+6/18/2023 6:24:47 PM WARNING! AN UNKNOWN FILE WAS DETECTED - suspicious file started proccess at path:C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.17.11461.0_x64__8wekyb3d8bbwe\WindowsTerminal.exe

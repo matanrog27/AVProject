@@ -13,10 +13,10 @@ namespace AntiVirus
         {
             
             int matches = 0;
-            for (int i = 0; i < fileToScan.Length - 50; i += 50)
+            for (int i = 0; i < fileToScan.Length - 200; i += 200)
             {
-                byte[] sequence = new byte[50];
-                Array.Copy(fileToScan, i, sequence, 0, 50);
+                byte[] sequence = new byte[200];
+                Array.Copy(fileToScan, i, sequence, 0, 200);
 
                 if (ArrayContains(virus, sequence))
                 {
@@ -24,8 +24,8 @@ namespace AntiVirus
                 }
             }
 
-            double similarity = (double)matches / (fileToScan.Length / 50);
-            if (similarity >= 0.8)
+            double similarity = (double)matches / (fileToScan.Length / 200);
+            if (similarity >= 0.5)
             {
                 return true;
             }

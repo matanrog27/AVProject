@@ -4,14 +4,27 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
 using System.Text.RegularExpressions;
-using System.Windows.Forms;
-
+using System.Timers;
+using Microsoft.Win32;
 namespace AntiVirus
 {
     public static class PortListener
     {
         private static HashSet<Port> Ports = new HashSet<Port>();
-        public static void InitPortListener()
+
+        public static void Start_Port_Timer()
+        {
+            Timer timer = new System.Timers.Timer();
+            timer.Interval = 20000; // 20 seconds
+            timer.Elapsed += InitPortListener;
+            timer.Start();
+            while (true)
+            {
+                // Keep the thread alive
+            }
+        }
+
+        public static void InitPortListener(object sender, System.Timers.ElapsedEventArgs e)
         {
            
 

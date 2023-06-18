@@ -14,8 +14,14 @@ namespace AV
     {
         private static readonly List<string> DirectoryToWatchList = new List<string> 
         {
-            @"C:\Users\mikie\AppData",
-            @"C:\Users\mikie\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup",
+            @"C:\Users\User\AppData",
+            @"C:\Users\User\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup",
+            @"C:\Users\User\Desktop",
+            @"C:\Users\User\Downloads",
+            @"C:\Users\User\Documents",
+            @"C:\Program Files",
+            @"C:\Program Files (x86)",
+            @"C:\Windows"
         };
         public static Queue<FileToScan> FilesToScan = new Queue< FileToScan>();
         public Queue<string> BadFiles = new Queue<string>();
@@ -45,7 +51,7 @@ namespace AV
             Thread processMonitor = new Thread(ProccessMonitor.InitProcessMonitor);
             processMonitor.Start();
 
-            Thread portListenerThred = new Thread(PortListener.InitPortListener);
+            Thread portListenerThred = new Thread(PortListener.Start_Port_Timer);
             portListenerThred.Start();
         }
 
@@ -78,8 +84,13 @@ namespace AV
                     int scanerResult = FileScanner.Scan(fileToScan.file_path);
                     if (scanerResult == 1)
                     {
-                        //white list file
-                       
+                        lock (logFileLock)
+                        {
+                            using (StreamWriter writer = new StreamWriter(DirectoryWatcher.logPath, true))
+                            {
+                                writer.WriteLine(DateTime.Now + " GOOD FILE WAS DETECTED - {0} at path:{1}", fileToScan.reson_for_scan, fileToScan.file_path);
+                            }
+                        }
                     }
                     else if (scanerResult == -1)
                     {
@@ -147,16 +158,8 @@ namespace AV
                         {
                             using (StreamWriter writer = new StreamWriter(DirectoryWatcher.logPath, true))
                             {
-                                string logExpertMessage = $"-{DateTime.Now} FAILED TO SCAN FILE!";
-                                string logMessage = "-FAILED TO SCAN FILE!";
-                                form.Invoke(new Action(() =>
-                                {
-                                    form.listBoxExpert.Items.Add(logExpertMessage);
-                                    form.listBoxRegular.Items.Add(logMessage);
-                                    form.listBoxRegular.Refresh();
-                                    form.listBoxExpert.Refresh();
-                                }));
-                                writer.WriteLine(DateTime.Now + $" failed to scan file:");
+                     
+                                writer.WriteLine(DateTime.Now + $" failed to scan file- {fileToScan.reson_for_scan} at path {fileToScan.file_path}");
                             }
                         }
                     }

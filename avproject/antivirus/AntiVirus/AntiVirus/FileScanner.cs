@@ -46,16 +46,16 @@ namespace AV
                         return 1;
                     }
                 }
-                foreach (byte[] virus in badFiles)
-                {
+                //foreach (byte[] virus in badFiles)
+                //{
 
-                    //check static signature
-                    if (CompareBytes(hash, virus))
-                    {
-                        return -1;
-                    }
+                //    //check static signature
+                //    if (CompareBytes(hash, virus))
+                //    {
+                //        return -1;
+                //    }
 
-                }
+                //}
                 foreach (byte[] virus in badFiles_unhash)
                 {
 
