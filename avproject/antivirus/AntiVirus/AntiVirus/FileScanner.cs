@@ -70,11 +70,11 @@ namespace AV
             }
             catch (Exception ex)
             {
-                using (StreamWriter writer = new StreamWriter(DirectoryWatcher.logPath, true))
-                {
-                    // Write an initial message or header
-                    writer.WriteLine(DateTime.Now + $" failed to scan file: {ex.Message}");
-                }
+                //using (StreamWriter writer = new StreamWriter(DirectoryWatcher.logPath, true))
+                //{
+                //    // Write an initial message or header
+                //    writer.WriteLine(DateTime.Now + $" failed to scan file: {ex.Message}");
+                //}
                 return -3;
             }
 
@@ -105,8 +105,8 @@ namespace AV
         public void GenerateLists()
         {
             // Example usage:
-            string goodFilesTextPath = @"C:\Users\mikie\OneDrive\שולחן העבודה\AVProject\avproject\white list.txt";
-            string directoryPath = @"C:\Users\mikie\OneDrive\שולחן העבודה\AVProject\avproject\blacklist";
+            string goodFilesTextPath = @"C:\Users\majd4\OneDrive\מסמכים\GitHub\AVProject\avproject\white list.txt";
+            string directoryPath = @"C:\Users\majd4\OneDrive\מסמכים\GitHub\AVProject\avproject\blacklist";
              badFiles = GetBadFiles(directoryPath);
              goodFiles = GetGoodFiles(goodFilesTextPath); 
         }

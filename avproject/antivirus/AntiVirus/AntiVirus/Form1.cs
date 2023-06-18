@@ -11,6 +11,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.Button;
 
 namespace AntiVirus
 {
@@ -23,7 +24,7 @@ namespace AntiVirus
             InitializeComponent();
             try
             {
-                engine.Start();
+                engine.Start(this);
 
             }
             catch (Exception ex)
@@ -91,5 +92,19 @@ namespace AntiVirus
         }
 
 
+        private void expertCheckBox_CheckedChanged(object sender, EventArgs e)
+        {
+            if (expertCheckBox.Checked)
+            {
+                listBoxExpert.Visible = true;
+                listBoxRegular.Visible = false;  
+            }
+            else
+            {
+                listBoxExpert.Visible = false;
+                listBoxRegular.Visible = true;
+            }
+
+        }
     }
 }

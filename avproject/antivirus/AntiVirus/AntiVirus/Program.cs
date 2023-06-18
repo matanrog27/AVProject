@@ -23,7 +23,8 @@ namespace AntiVirus
             FileScanner fs = new FileScanner();
             fs.GenerateLists();
 
-            Application.Run(new Form1());
+            Form1 form = new Form1();
+            form.ShowDialog();
             //AVEngine engine = new AVEngine();
 
             //engine.Start();

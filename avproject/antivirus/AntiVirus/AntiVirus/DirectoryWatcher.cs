@@ -14,6 +14,7 @@ namespace AntiVirus
     {
         public static  string logPath = @"..\..\LogFile.log";
 
+        private static readonly object logFileLock = new object(); // Lock object for the log file
 
         public static void InitWatcher (string directoryToWatch)
         {
@@ -43,10 +44,13 @@ namespace AntiVirus
             }
             catch(Exception ex ) 
             {
-                using (StreamWriter writer = new StreamWriter(DirectoryWatcher.logPath, true))
+                lock (logFileLock)
                 {
-                    // Write an initial message or header
-                    writer.WriteLine(DateTime.Now + $" failed listen to directory: {ex.Message}");
+                    using (StreamWriter writer = new StreamWriter(DirectoryWatcher.logPath, true))
+                    {
+                        // Write an initial message or header
+                        writer.WriteLine(DateTime.Now + $" failed listen to directory: {ex.Message}");
+                    }
                 }
             }
 
